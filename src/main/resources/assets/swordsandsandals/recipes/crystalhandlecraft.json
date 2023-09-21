@@ -1,0 +1,30 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "1": {
+      "item": "swordsandsandals:carbinblock"
+    },
+    "2": {
+      "item": "minecraft:iron_ingot"
+    },
+    "4": {
+      "item": "minecraft:iron_block"
+    },
+    "7": {
+      "item": "swordsandsandals:carbin"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:crystalswordhandle",
+    "count": 1
+  }
+}

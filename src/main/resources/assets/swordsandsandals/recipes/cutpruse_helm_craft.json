@@ -1,0 +1,35 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:concrete",
+      "data": 3
+    },
+    "1": {
+      "item": "minecraft:concrete",
+      "data": 3
+    },
+    "2": {
+      "item": "minecraft:concrete",
+      "data": 3
+    },
+    "3": {
+      "item": "minecraft:iron_nugget"
+    },
+    "4": {
+      "item": "minecraft:iron_ingot"
+    },
+    "5": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:cutpurse_armorhelmet",
+    "count": 1
+  }
+}

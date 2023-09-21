@@ -1,0 +1,38 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dye",
+      "data": 1
+    },
+    "1": {
+      "item": "minecraft:log",
+      "data": 0
+    },
+    "2": {
+      "item": "swordsandsandals:rubin"
+    },
+    "3": {
+      "item": "minecraft:log",
+      "data": 0
+    },
+    "4": {
+      "item": "minecraft:dye",
+      "data": 1
+    },
+    "5": {
+      "item": "minecraft:log",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:hunterspearstick",
+    "count": 1
+  }
+}

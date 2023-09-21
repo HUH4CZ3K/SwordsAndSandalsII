@@ -1,0 +1,40 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:diamond_plume"
+    },
+    "2": {
+      "item": "swordsandsandals:diamond_plume"
+    },
+    "3": {
+      "item": "swordsandsandals:champion_composite"
+    },
+    "4": {
+      "item": "swordsandsandals:champion_chestplate_part"
+    },
+    "5": {
+      "item": "swordsandsandals:champion_composite"
+    },
+    "6": {
+      "item": "swordsandsandals:champion_composite"
+    },
+    "7": {
+      "item": "minecraft:wool",
+      "data": 9
+    },
+    "8": {
+      "item": "swordsandsandals:champion_composite"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:champion_armorbody",
+    "count": 1
+  }
+}

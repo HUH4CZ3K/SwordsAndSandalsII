@@ -1,0 +1,19 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:block_of_polished_crystal"
+    },
+    "1": {
+      "item": "swordsandsandals:block_of_polished_crystal"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:whie_ledge",
+    "count": 16
+  }
+}

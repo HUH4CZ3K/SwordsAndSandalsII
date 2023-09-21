@@ -1,0 +1,24 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:carbinblock"
+    },
+    "1": {
+      "item": "swordsandsandals:blockofrubin"
+    },
+    "2": {
+      "item": "swordsandsandals:carbinblock"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:daikatanabladepart1",
+    "count": 1
+  }
+}

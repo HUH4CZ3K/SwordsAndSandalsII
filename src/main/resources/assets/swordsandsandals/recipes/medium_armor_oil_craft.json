@@ -1,0 +1,32 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:milk_bucket"
+    },
+    "3": {
+      "item": "minecraft:golden_apple",
+      "data": 0
+    },
+    "4": {
+      "item": "swordsandsandals:ancient_gem_2"
+    },
+    "5": {
+      "item": "minecraft:golden_apple",
+      "data": 0
+    },
+    "7": {
+      "item": "swordsandsandals:small_bottle"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:medium_armor_oil",
+    "count": 1
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:automaton_composite"
+    },
+    "1": {
+      "item": "swordsandsandals:blockofsaphire"
+    },
+    "2": {
+      "item": "swordsandsandals:automaton_composite"
+    },
+    "3": {
+      "item": "swordsandsandals:blockofsaphire"
+    },
+    "4": {
+      "item": "minecraft:stained_glass_pane",
+      "data": 2
+    },
+    "5": {
+      "item": "swordsandsandals:blockofsaphire"
+    },
+    "6": {
+      "item": "swordsandsandals:automaton_composite"
+    },
+    "7": {
+      "item": "minecraft:stained_glass_pane",
+      "data": 2
+    },
+    "8": {
+      "item": "swordsandsandals:automaton_composite"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:automaton_armorhelmet",
+    "count": 1
+  }
+}

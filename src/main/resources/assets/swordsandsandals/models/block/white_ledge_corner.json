@@ -1,0 +1,8 @@
+{
+  "parent": "swordsandsandals:custom/whiteledgecornermodel",
+  "textures": {
+    "all": "swordsandsandals:blocks/rystal_block",
+    "particle": "swordsandsandals:blocks/rystal_block",
+    "0": "swordsandsandals:blocks/whiteledgenarozny"
+  }
+}

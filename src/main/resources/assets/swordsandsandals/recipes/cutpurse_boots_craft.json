@@ -1,0 +1,28 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:wool",
+      "data": 13
+    },
+    "2": {
+      "item": "minecraft:wool",
+      "data": 13
+    },
+    "3": {
+      "item": "minecraft:iron_nugget"
+    },
+    "5": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:cutpurse_armorboots",
+    "count": 1
+  }
+}

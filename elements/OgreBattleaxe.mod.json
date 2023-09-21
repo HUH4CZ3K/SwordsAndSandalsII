@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ogrebattleaxetexture",
+    "customModelName": "Normal",
+    "name": "Ogre Battleaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SwordsAndSandalsWeapons"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 1,
+    "efficiency": 5.0,
+    "attackSpeed": 1.0,
+    "enchantability": 8,
+    "damageVsEntity": 31.0,
+    "usageCount": 748,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:BlockOfBronze"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

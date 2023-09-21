@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.EMERALD"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "Items.EMERALD"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "CUSTOM:Saphire"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "Items.EMERALD"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "Items.EMERALD"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ConquererComposite"
+    },
+    "name": "conquerer_composite_craft",
+    "namespace": "minecraft"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "studded_mace_texture"
+      },
+      "name": "default"
+    }
+  }
+}

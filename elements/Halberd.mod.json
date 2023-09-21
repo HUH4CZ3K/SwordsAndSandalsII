@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "halberdtexture",
+    "customModelName": "Normal",
+    "name": "Halberd",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SwordsAndSandalsWeapons"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 1,
+    "efficiency": 1.0,
+    "attackSpeed": 1.1,
+    "enchantability": 10,
+    "damageVsEntity": 40.0,
+    "usageCount": 584,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.IRON_BLOCK"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

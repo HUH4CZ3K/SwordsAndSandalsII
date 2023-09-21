@@ -1,0 +1,32 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:carbin"
+    },
+    "1": {
+      "item": "swordsandsandals:blockofamethyst"
+    },
+    "2": {
+      "item": "swordsandsandals:carbin"
+    },
+    "3": {
+      "item": "swordsandsandals:polishedobsidianingot"
+    },
+    "4": {
+      "item": "swordsandsandals:amethyst"
+    },
+    "5": {
+      "item": "swordsandsandals:polishedobsidianingot"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:automaton_composite",
+    "count": 1
+  }
+}

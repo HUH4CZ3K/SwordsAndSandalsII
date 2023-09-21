@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "ironmace",
+    "customModelName": "ironmace:default",
+    "name": "Iron Mace",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SwordsAndSandalsWeapons"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 2,
+    "efficiency": 2.0,
+    "attackSpeed": 1.0,
+    "enchantability": 10,
+    "damageVsEntity": 15.0,
+    "usageCount": 524,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.IRON_BLOCK"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

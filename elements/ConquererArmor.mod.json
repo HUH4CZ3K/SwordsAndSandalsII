@@ -1,0 +1,66 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "conquererhelmettexture",
+    "enableBody": true,
+    "textureBody": "conquererchestplatetexture",
+    "enableLeggings": true,
+    "textureLeggings": "conqererlegginstexture",
+    "enableBoots": true,
+    "textureBoots": "conquererboot",
+    "onHelmetTick": {
+      "name": "ConquererArmorHelmetTickEvent"
+    },
+    "onBodyTick": {
+      "name": "ConquererArmorBodyTickEvent"
+    },
+    "onLeggingsTick": {
+      "name": "AutomatonArmorLeggingsTickEvent"
+    },
+    "onBootsTick": {
+      "name": "AutomatonArmorBootsTickEvent"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:SwordsAndSandalsArmors"
+    },
+    "armorTextureFile": "antaresalpha_",
+    "helmetName": "Conquerer Helmet",
+    "bodyName": "Conquerer Chestplate",
+    "leggingsName": "Conquerer Leggins",
+    "bootsName": "Conquerer Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "ModelConquererHelmet",
+    "helmetModelPart": "Head",
+    "helmetModelTexture": "conquererhelmettexture.png",
+    "bodyModelName": "ModelConquererChestplate",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightArm",
+    "bodyModelTexture": "conquererchestplatetexture.png",
+    "leggingsModelName": "ModelConquererLeggins",
+    "leggingsModelPartL": "LeftLeg",
+    "leggingsModelPartR": "RightLeg",
+    "leggingsModelTexture": "conquererlegginstexture.png",
+    "bootsModelName": "ModelConquererBoots",
+    "bootsModelPartL": "LeftBoot",
+    "bootsModelPartR": "RightBoot",
+    "bootsModelTexture": "conquererbootstexture.png",
+    "maxDamage": 450,
+    "damageValueHelmet": 10,
+    "damageValueBody": 30,
+    "damageValueLeggings": 17,
+    "damageValueBoots": 8,
+    "enchantability": 20,
+    "toughness": 9.5,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": "item.armor.equip_diamond"
+    },
+    "repairItems": []
+  }
+}

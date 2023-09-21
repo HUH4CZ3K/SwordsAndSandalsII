@@ -1,0 +1,29 @@
+{
+  "_fv": 18,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "maximumstaminavialtexture",
+    "customModelName": "Normal",
+    "name": "Maximum Stamina Vial",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:MagicItems"
+    },
+    "stackSize": 1,
+    "nutritionalValue": 20,
+    "saturation": 5.0,
+    "eatingSpeed": 4,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "drink",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "MaximumStaminaVialFoodEaten"
+    }
+  }
+}

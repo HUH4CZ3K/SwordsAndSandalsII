@@ -1,0 +1,37 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_block"
+    },
+    "2": {
+      "item": "swordsandsandals:blockofbronze"
+    },
+    "3": {
+      "item": "minecraft:iron_block"
+    },
+    "4": {
+      "item": "minecraft:iron_block"
+    },
+    "5": {
+      "item": "minecraft:gold_ingot"
+    },
+    "6": {
+      "item": "minecraft:iron_block"
+    },
+    "8": {
+      "item": "minecraft:log2",
+      "data": 1
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:poleaxeblade",
+    "count": 1
+  }
+}

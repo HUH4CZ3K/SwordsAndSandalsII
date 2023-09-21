@@ -1,0 +1,23 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:saphire"
+    },
+    "1": {
+      "item": "swordsandsandals:ancient_gem"
+    },
+    "2": {
+      "item": "minecraft:dye",
+      "data": 12
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:gale",
+    "count": 1
+  }
+}

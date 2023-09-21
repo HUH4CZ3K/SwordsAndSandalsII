@@ -1,0 +1,37 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "meme_drill",
+    "customModelName": "Normal",
+    "name": "Diamond Drill",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SwordsAndSandalsItems"
+    },
+    "toolType": "Special",
+    "harvestLevel": 3,
+    "efficiency": 16.0,
+    "attackSpeed": 1.0,
+    "enchantability": 1,
+    "damageVsEntity": 3.0,
+    "usageCount": 4,
+    "blocksAffected": [
+      {
+        "value": "CUSTOM:CarbinOre"
+      }
+    ],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "DiamondGrinderLivingEntityIsHitWithTool"
+    },
+    "onBlockDestroyedWithTool": {
+      "name": "DiamondDrillBlockDestroyedWithTool"
+    }
+  }
+}

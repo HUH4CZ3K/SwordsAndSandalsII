@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "woodenclub",
+    "customModelName": "woodenclub:default",
+    "name": "Wooden Club",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SwordsAndSandalsWeapons"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 1,
+    "efficiency": 1.5,
+    "attackSpeed": 0.8,
+    "enchantability": 12,
+    "damageVsEntity": 11.0,
+    "usageCount": 256,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.LOG"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "greensteelaxetexture",
+    "customModelName": "Normal",
+    "name": "Greensteel Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SwordsAndSandalsWeapons"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 1,
+    "efficiency": 3.0,
+    "attackSpeed": 1.0,
+    "enchantability": 10,
+    "damageVsEntity": 16.0,
+    "usageCount": 628,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:ImpureEmerald"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

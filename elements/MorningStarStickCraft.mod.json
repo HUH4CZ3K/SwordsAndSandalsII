@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BronzeIngot"
+      },
+      {
+        "value": "CUSTOM:BlockOfBronze"
+      },
+      {
+        "value": "CUSTOM:BronzeIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MorningStarStick"
+    },
+    "name": "morning_star_stick_craft",
+    "namespace": "minecraft"
+  }
+}

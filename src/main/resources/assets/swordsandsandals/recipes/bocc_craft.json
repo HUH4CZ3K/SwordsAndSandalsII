@@ -1,0 +1,42 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:champion_composite"
+    },
+    "1": {
+      "item": "swordsandsandals:champion_composite"
+    },
+    "2": {
+      "item": "swordsandsandals:champion_composite"
+    },
+    "3": {
+      "item": "swordsandsandals:champion_composite"
+    },
+    "4": {
+      "item": "swordsandsandals:champion_composite"
+    },
+    "5": {
+      "item": "swordsandsandals:champion_composite"
+    },
+    "6": {
+      "item": "swordsandsandals:champion_composite"
+    },
+    "7": {
+      "item": "swordsandsandals:champion_composite"
+    },
+    "8": {
+      "item": "swordsandsandals:champion_composite"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:block_of_champion_composite",
+    "count": 1
+  }
+}

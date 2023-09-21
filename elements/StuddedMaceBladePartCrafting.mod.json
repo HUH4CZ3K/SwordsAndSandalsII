@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Saphire"
+      },
+      {
+        "value": "CUSTOM:BlockOfSaphire"
+      },
+      {
+        "value": "CUSTOM:Saphire"
+      },
+      {
+        "value": "CUSTOM:BlockOfSaphire"
+      },
+      {
+        "value": "Blocks.LAPIS_BLOCK"
+      },
+      {
+        "value": "CUSTOM:BlockOfSaphire"
+      },
+      {
+        "value": "CUSTOM:Saphire"
+      },
+      {
+        "value": "CUSTOM:BlockOfSaphire"
+      },
+      {
+        "value": "CUSTOM:Saphire"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:StuddedMaceBladepart"
+    },
+    "name": "studded_mace_blade_part_crafting",
+    "namespace": "minecraft"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AncientGem2"
+      },
+      {
+        "value": "CUSTOM:AncientGem2"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AncientGem2"
+      },
+      {
+        "value": "CUSTOM:AncientGem2"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AncientGem3"
+    },
+    "name": "ancient_3_craft",
+    "namespace": "minecraft"
+  }
+}

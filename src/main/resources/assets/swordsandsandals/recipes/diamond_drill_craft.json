@@ -1,0 +1,20 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 ",
+    " 3"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:diamond_drill_head"
+    },
+    "3": {
+      "item": "swordsandsandals:drill_base"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:diamond_drill",
+    "count": 1
+  }
+}

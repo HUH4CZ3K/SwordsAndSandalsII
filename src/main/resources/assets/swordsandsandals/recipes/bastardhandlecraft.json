@@ -1,0 +1,30 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:amethyst"
+    },
+    "1": {
+      "item": "swordsandsandals:polishedobsidianingot"
+    },
+    "2": {
+      "item": "swordsandsandals:amethyst"
+    },
+    "4": {
+      "item": "swordsandsandals:polishedobsidianingot"
+    },
+    "7": {
+      "item": "swordsandsandals:blockofamethyst"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:bastardswordhandle",
+    "count": 1
+  }
+}

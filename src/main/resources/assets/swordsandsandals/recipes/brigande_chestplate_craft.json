@@ -1,0 +1,44 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:bronzeingot"
+    },
+    "1": {
+      "item": "minecraft:wool",
+      "data": 15
+    },
+    "2": {
+      "item": "swordsandsandals:bronzeingot"
+    },
+    "3": {
+      "item": "swordsandsandals:bronzeingot"
+    },
+    "4": {
+      "item": "minecraft:wool",
+      "data": 15
+    },
+    "5": {
+      "item": "swordsandsandals:bronzeingot"
+    },
+    "6": {
+      "item": "minecraft:gold_nugget"
+    },
+    "7": {
+      "item": "minecraft:iron_ingot"
+    },
+    "8": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:brigand_armourbody",
+    "count": 1
+  }
+}

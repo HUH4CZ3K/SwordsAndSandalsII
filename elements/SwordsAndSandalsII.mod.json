@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "sasmusicdisktexture",
+    "name": "Swords And Sandals II Disc",
+    "description": "SwordsAndSandalsOfficialSoundtrack",
+    "creativeTab": {
+      "value": "CUSTOM:SwordsAndSandalsItems"
+    },
+    "music": {
+      "value": "CUSTOM:soundtrack1"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

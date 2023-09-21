@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Magic Items",
+    "icon": {
+      "value": "CUSTOM:MoltenDead"
+    },
+    "showSearch": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "swordsandsandals:block_of_marble_slab"
+    },
+    "half=top,variant=default": {
+      "model": "swordsandsandals:block_of_marble_slab_top"
+    }
+  }
+}

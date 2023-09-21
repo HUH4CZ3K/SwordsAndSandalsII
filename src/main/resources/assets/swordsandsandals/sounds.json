@@ -1,0 +1,102 @@
+{
+  "arenachampionvoice": {
+    "category": "master",
+    "subtitle": "subtitles.arenachampionvoice",
+    "sounds": [
+      {
+        "name": "swordsandsandals:beholdarenachampionmusic",
+        "stream": false
+      }
+    ]
+  },
+  "soundtrack1": {
+    "category": "music",
+    "subtitle": "subtitles.soundtrack1",
+    "sounds": [
+      {
+        "name": "swordsandsandals:swordsandsandalsoundtrack1",
+        "stream": true
+      }
+    ]
+  },
+  "bossdefeat": {
+    "category": "ambient",
+    "subtitle": "subtitles.bossdefeat",
+    "sounds": [
+      {
+        "name": "swordsandsandals:bossdefeat",
+        "stream": false
+      }
+    ]
+  },
+  "antareshurtvoice": {
+    "category": "ambient",
+    "subtitle": "subtitles.antareshurtvoice",
+    "sounds": [
+      {
+        "name": "swordsandsandals:emperorantareshurt",
+        "stream": false
+      }
+    ]
+  },
+  "playerdeath": {
+    "category": "player",
+    "subtitle": "subtitles.playerdeath",
+    "sounds": [
+      {
+        "name": "swordsandsandals:playerdeath",
+        "stream": false
+      }
+    ]
+  },
+  "gladiatorwalksound": {
+    "category": "ambient",
+    "subtitle": "subtitles.gladiatorwalksound",
+    "sounds": [
+      {
+        "name": "swordsandsandals:sasdzwiekchodzenia",
+        "stream": false
+      }
+    ]
+  },
+  "fireball": {
+    "category": "ambient",
+    "subtitle": "subtitles.fireball",
+    "sounds": [
+      {
+        "name": "swordsandsandals:sasvoice4_fireball_",
+        "stream": false
+      }
+    ]
+  },
+  "antaresdeath": {
+    "category": "ambient",
+    "subtitle": "subtitles.antaresdeath",
+    "sounds": [
+      {
+        "name": "swordsandsandals:antaresdeath",
+        "stream": false
+      }
+    ]
+  },
+  "rejuvinate": {
+    "category": "master",
+    "subtitle": "subtitles.rejuvinate",
+    "sounds": [
+      {
+        "name": "swordsandsandals:rejuvinatesound",
+        "stream": false
+      }
+    ]
+  },
+  "strzalzkuszy": {
+    "category": "master",
+    "subtitle": "subtitles.strzalzkuszy",
+    "sounds": [
+      {
+        "name": "swordsandsandals:strzalzkuszy",
+        "stream": false
+      }
+    ]
+  }
+}

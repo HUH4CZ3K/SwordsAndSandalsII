@@ -1,0 +1,23 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:block_of_marble"
+    },
+    "1": {
+      "item": "swordsandsandals:block_of_marble"
+    },
+    "2": {
+      "item": "swordsandsandals:block_of_marble"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:block_of_marble_slab",
+    "data": 0,
+    "count": 6
+  }
+}

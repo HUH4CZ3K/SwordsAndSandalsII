@@ -1,0 +1,16 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "swordsandsandals:crusader_boot"
+    },
+    {
+      "item": "swordsandsandals:crusader_boot"
+    }
+  ],
+  "result": {
+    "item": "swordsandsandals:crusader_armorboots",
+    "count": 1
+  }
+}

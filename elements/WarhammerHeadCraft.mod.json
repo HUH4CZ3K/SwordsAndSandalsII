@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.GOLD_INGOT"
+      },
+      {
+        "value": "Blocks.GOLD_BLOCK"
+      },
+      {
+        "value": "Items.GOLD_INGOT"
+      },
+      {
+        "value": "CUSTOM:Saphire"
+      },
+      {
+        "value": "CUSTOM:BlockOfBronze"
+      },
+      {
+        "value": "CUSTOM:Saphire"
+      },
+      {
+        "value": "CUSTOM:BronzeIngot"
+      },
+      {
+        "value": "Blocks.GOLD_BLOCK"
+      },
+      {
+        "value": "CUSTOM:BronzeIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:WarhammerHead"
+    },
+    "name": "warhammer_head_craft",
+    "namespace": "minecraft"
+  }
+}

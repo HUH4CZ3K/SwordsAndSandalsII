@@ -1,0 +1,36 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:blockofbronze"
+    },
+    "1": {
+      "item": "swordsandsandals:carbinblock"
+    },
+    "2": {
+      "item": "swordsandsandals:blockofbronze"
+    },
+    "3": {
+      "item": "swordsandsandals:blockofrubin"
+    },
+    "4": {
+      "item": "swordsandsandals:carbinblock"
+    },
+    "5": {
+      "item": "swordsandsandals:blockofrubin"
+    },
+    "7": {
+      "item": "swordsandsandals:carbin"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:mperial_warhammer_blade_part",
+    "count": 1
+  }
+}

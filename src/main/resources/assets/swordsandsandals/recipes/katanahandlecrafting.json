@@ -1,0 +1,30 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_block"
+    },
+    "1": {
+      "item": "swordsandsandals:carbin"
+    },
+    "2": {
+      "item": "minecraft:gold_block"
+    },
+    "4": {
+      "item": "swordsandsandals:carbinblock"
+    },
+    "7": {
+      "item": "swordsandsandals:carbin"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:katanahandle",
+    "count": 1
+  }
+}

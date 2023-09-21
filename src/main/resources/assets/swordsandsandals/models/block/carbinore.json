@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "swordsandsandals:blocks/bsidian_re",
+    "up": "swordsandsandals:blocks/bsidian_re",
+    "north": "swordsandsandals:blocks/bsidian_re",
+    "east": "swordsandsandals:blocks/bsidian_re",
+    "south": "swordsandsandals:blocks/bsidian_re",
+    "west": "swordsandsandals:blocks/bsidian_re",
+    "particle": "swordsandsandals:blocks/bsidian_re"
+  }
+}

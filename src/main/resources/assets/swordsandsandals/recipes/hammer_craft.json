@@ -1,0 +1,33 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "1": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "2": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "4": {
+      "item": "minecraft:cobblestone"
+    },
+    "7": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:hammer",
+    "count": 1
+  }
+}

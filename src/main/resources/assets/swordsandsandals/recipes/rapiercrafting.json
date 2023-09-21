@@ -1,0 +1,20 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "2 "
+  ],
+  "key": {
+    "1": {
+      "item": "swordsandsandals:rapierblade"
+    },
+    "2": {
+      "item": "swordsandsandals:rapierhandle"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:rapier",
+    "count": 1
+  }
+}

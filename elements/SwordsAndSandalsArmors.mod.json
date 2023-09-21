@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Swords And Sandals Armors",
+    "icon": {
+      "value": "CUSTOM:ChampionArmor.body"
+    },
+    "showSearch": true
+  }
+}

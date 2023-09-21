@@ -1,0 +1,58 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "retariushelmetitem",
+    "enableBody": true,
+    "textureBody": "retariuschestitem",
+    "enableLeggings": true,
+    "textureLeggings": "retariuslegginsitem",
+    "enableBoots": true,
+    "textureBoots": "retariusbootsitem",
+    "creativeTab": {
+      "value": "CUSTOM:SwordsAndSandalsArmors"
+    },
+    "armorTextureFile": "antaresalpha_",
+    "helmetName": "Retarius Helmet",
+    "bodyName": "Retarius Chestplate",
+    "leggingsName": "Retarius Leggings",
+    "bootsName": "Retarius Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "ModelRetariusHelmet",
+    "helmetModelPart": "Head",
+    "helmetModelTexture": "retariushelmettexture.png",
+    "bodyModelName": "ModelRetariusChestplate",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightArm",
+    "bodyModelTexture": "retariuschestplatetexture.png",
+    "leggingsModelName": "ModelswashbucklerLeggins",
+    "leggingsModelPartL": "LeftLeg",
+    "leggingsModelPartR": "RightLeg",
+    "leggingsModelTexture": "retariuslegginstexture.png",
+    "bootsModelName": "Modelswashbucklerbootpoprawione",
+    "bootsModelPartL": "LeftLeg",
+    "bootsModelPartR": "RightLeg",
+    "bootsModelTexture": "retariusbootstexture.png",
+    "maxDamage": 75,
+    "damageValueHelmet": 3,
+    "damageValueBody": 8,
+    "damageValueLeggings": 6,
+    "damageValueBoots": 3,
+    "enchantability": 12,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": "item.armor.equip_chain"
+    },
+    "repairItems": [
+      {
+        "value": "Blocks.IRON_BLOCK"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:diamond_block"
+    },
+    "3": {
+      "item": "swordsandsandals:crystal"
+    },
+    "4": {
+      "item": "minecraft:diamond_block"
+    },
+    "5": {
+      "item": "swordsandsandals:crystal"
+    },
+    "7": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:kensaispiritbladepart1",
+    "count": 1
+  }
+}

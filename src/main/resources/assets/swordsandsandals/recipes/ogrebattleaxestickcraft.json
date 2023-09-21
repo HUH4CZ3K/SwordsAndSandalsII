@@ -1,0 +1,26 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:log2",
+      "data": 1
+    },
+    "1": {
+      "item": "minecraft:log2",
+      "data": 1
+    },
+    "2": {
+      "item": "swordsandsandals:blockofbronze"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:ogrebattleaxestick",
+    "count": 1
+  }
+}

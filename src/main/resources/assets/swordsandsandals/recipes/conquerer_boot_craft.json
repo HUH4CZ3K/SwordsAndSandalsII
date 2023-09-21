@@ -1,0 +1,23 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "23"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:emerald"
+    },
+    "2": {
+      "item": "swordsandsandals:conquerer_composite"
+    },
+    "3": {
+      "item": "swordsandsandals:conquerer_composite"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:conquerer_boot",
+    "count": 1
+  }
+}

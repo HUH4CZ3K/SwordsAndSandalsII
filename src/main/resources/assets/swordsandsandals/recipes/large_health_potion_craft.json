@@ -1,0 +1,36 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:ancient_gem"
+    },
+    "1": {
+      "item": "minecraft:apple"
+    },
+    "2": {
+      "item": "swordsandsandals:ancient_gem"
+    },
+    "3": {
+      "item": "minecraft:apple"
+    },
+    "4": {
+      "item": "swordsandsandals:ancient_gem"
+    },
+    "5": {
+      "item": "minecraft:apple"
+    },
+    "7": {
+      "item": "swordsandsandals:large_bottle"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:large_health_potion",
+    "count": 1
+  }
+}

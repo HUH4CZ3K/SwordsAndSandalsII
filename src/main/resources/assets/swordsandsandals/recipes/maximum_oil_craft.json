@@ -1,0 +1,39 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:golden_apple",
+      "data": 0
+    },
+    "1": {
+      "item": "minecraft:golden_apple",
+      "data": 0
+    },
+    "2": {
+      "item": "minecraft:golden_apple",
+      "data": 0
+    },
+    "3": {
+      "item": "swordsandsandals:ancient_gem_2"
+    },
+    "4": {
+      "item": "minecraft:milk_bucket"
+    },
+    "5": {
+      "item": "swordsandsandals:ancient_gem_2"
+    },
+    "7": {
+      "item": "swordsandsandals:maximum_bottle"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:maximum_armor_oil",
+    "count": 1
+  }
+}

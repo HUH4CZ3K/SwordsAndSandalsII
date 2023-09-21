@@ -1,0 +1,29 @@
+{
+  "_fv": 18,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "maximumhealthtexture",
+    "customModelName": "Normal",
+    "name": "Maximum Health Potion",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:MagicItems"
+    },
+    "stackSize": 1,
+    "nutritionalValue": 0,
+    "saturation": 0.3,
+    "eatingSpeed": 4,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "drink",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "MaximumHealthPotionFoodEaten"
+    }
+  }
+}

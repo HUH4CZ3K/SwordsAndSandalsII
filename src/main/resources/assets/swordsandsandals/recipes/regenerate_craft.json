@@ -1,0 +1,33 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:rubin"
+    },
+    "2": {
+      "item": "swordsandsandals:rubin"
+    },
+    "3": {
+      "item": "swordsandsandals:rubin"
+    },
+    "4": {
+      "item": "swordsandsandals:ancient_gem_2"
+    },
+    "5": {
+      "item": "swordsandsandals:rubin"
+    },
+    "7": {
+      "item": "swordsandsandals:blockofrubin"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:regenerate_1",
+    "count": 1
+  }
+}

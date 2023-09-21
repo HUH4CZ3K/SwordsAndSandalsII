@@ -1,0 +1,19 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:automaton_boot"
+    },
+    "1": {
+      "item": "swordsandsandals:automaton_boot"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:automaton_armorboots",
+    "count": 1
+  }
+}

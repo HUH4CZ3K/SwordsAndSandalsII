@@ -1,0 +1,42 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:crystal"
+    },
+    "1": {
+      "item": "swordsandsandals:crystal"
+    },
+    "2": {
+      "item": "swordsandsandals:crystal"
+    },
+    "3": {
+      "item": "swordsandsandals:crystal"
+    },
+    "4": {
+      "item": "swordsandsandals:crystal"
+    },
+    "5": {
+      "item": "swordsandsandals:crystal"
+    },
+    "6": {
+      "item": "swordsandsandals:crystal"
+    },
+    "7": {
+      "item": "swordsandsandals:crystal"
+    },
+    "8": {
+      "item": "swordsandsandals:crystal"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:blockofcrystal",
+    "count": 1
+  }
+}

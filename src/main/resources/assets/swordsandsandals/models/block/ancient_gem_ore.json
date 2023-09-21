@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "swordsandsandals:blocks/ancientgemoretexture",
+    "up": "swordsandsandals:blocks/ancientgemoretexture",
+    "north": "swordsandsandals:blocks/ancientgemoretexture",
+    "east": "swordsandsandals:blocks/ancientgemoretexture",
+    "south": "swordsandsandals:blocks/ancientgemoretexture",
+    "west": "swordsandsandals:blocks/ancientgemoretexture",
+    "particle": "swordsandsandals:blocks/ancientgemoretexture"
+  }
+}

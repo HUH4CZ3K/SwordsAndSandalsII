@@ -1,0 +1,42 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:blockofcrystal"
+    },
+    "1": {
+      "item": "swordsandsandals:blockofcrystal"
+    },
+    "2": {
+      "item": "swordsandsandals:blockofcrystal"
+    },
+    "3": {
+      "item": "minecraft:glowstone"
+    },
+    "4": {
+      "item": "minecraft:glowstone"
+    },
+    "5": {
+      "item": "minecraft:glowstone"
+    },
+    "6": {
+      "item": "swordsandsandals:blockofcrystal"
+    },
+    "7": {
+      "item": "swordsandsandals:blockofcrystal"
+    },
+    "8": {
+      "item": "swordsandsandals:blockofcrystal"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:block_of_polished_crystal",
+    "count": 6
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "swordsandsandals:blocks/uda_zgremnialy_szmaragd",
+    "up": "swordsandsandals:blocks/uda_zgremnialy_szmaragd",
+    "north": "swordsandsandals:blocks/uda_zgremnialy_szmaragd",
+    "east": "swordsandsandals:blocks/uda_zgremnialy_szmaragd",
+    "south": "swordsandsandals:blocks/uda_zgremnialy_szmaragd",
+    "west": "swordsandsandals:blocks/uda_zgremnialy_szmaragd",
+    "particle": "swordsandsandals:blocks/uda_zgremnialy_szmaragd"
+  }
+}

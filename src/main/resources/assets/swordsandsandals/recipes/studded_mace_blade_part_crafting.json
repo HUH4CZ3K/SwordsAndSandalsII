@@ -1,0 +1,42 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:saphire"
+    },
+    "1": {
+      "item": "swordsandsandals:blockofsaphire"
+    },
+    "2": {
+      "item": "swordsandsandals:saphire"
+    },
+    "3": {
+      "item": "swordsandsandals:blockofsaphire"
+    },
+    "4": {
+      "item": "minecraft:lapis_block"
+    },
+    "5": {
+      "item": "swordsandsandals:blockofsaphire"
+    },
+    "6": {
+      "item": "swordsandsandals:saphire"
+    },
+    "7": {
+      "item": "swordsandsandals:blockofsaphire"
+    },
+    "8": {
+      "item": "swordsandsandals:saphire"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:studded_mace_bladepart",
+    "count": 1
+  }
+}

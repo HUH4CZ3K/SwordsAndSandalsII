@@ -1,0 +1,30 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:emerald_block"
+    },
+    "3": {
+      "item": "swordsandsandals:impureemerald"
+    },
+    "4": {
+      "item": "minecraft:emerald_block"
+    },
+    "5": {
+      "item": "swordsandsandals:impureemerald"
+    },
+    "7": {
+      "item": "minecraft:emerald_block"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:ancesorkatanabladepart1",
+    "count": 1
+  }
+}

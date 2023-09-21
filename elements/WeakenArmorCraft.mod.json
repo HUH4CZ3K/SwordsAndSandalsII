@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LightningBolt"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LightningBolt"
+      },
+      {
+        "value": "Items.IRON_CHESTPLATE"
+      },
+      {
+        "value": "CUSTOM:LightningBolt"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AncientGem2"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:WeakenArmor"
+    },
+    "name": "weaken_armor_craft",
+    "namespace": "minecraft"
+  }
+}

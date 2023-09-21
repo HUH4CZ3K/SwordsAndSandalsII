@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "lightningbolttexture",
+    "customModelName": "Normal",
+    "name": "Lightning Bolt",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:MagicItems"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": true,
+    "usageCount": 0,
+    "actionSound": {
+      "value": ""
+    },
+    "hasGlow": false,
+    "animation": "none",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "onRangedItemUsed": {
+      "name": "LightningBoltRangedItemUsed"
+    },
+    "bulletPower": 1.5,
+    "bulletDamage": 10.0,
+    "bulletKnockback": 0,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:LightningBolt"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "poduszka_do_cupniaka_texture.png",
+    "onBulletHitsBlock": {
+      "name": "LightningBoltBulletHitsBlock"
+    },
+    "onBulletHitsEntity": {
+      "name": "LightningBoltBulletHitsBlock"
+    }
+  }
+}

@@ -1,0 +1,7441 @@
+{
+  "id_map": {
+    "GUI": 1,
+    "DIMENSION": 1,
+    "ENTITY": 28
+  },
+  "mod_elements": [
+    {
+      "name": "BronzeOre",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Ores"
+    },
+    {
+      "name": "ImpureEmerald",
+      "type": "item",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Items"
+    },
+    {
+      "name": "BronzeIngot",
+      "type": "item",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Items"
+    },
+    {
+      "name": "BronzeIngotSmelting",
+      "type": "recipe",
+      "sortid": 264,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Smelting"
+    },
+    {
+      "name": "Saphire",
+      "type": "item",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Items"
+    },
+    {
+      "name": "SaphireOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Ores"
+    },
+    {
+      "name": "Amethyst",
+      "type": "item",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Items"
+    },
+    {
+      "name": "AmethystOre",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Ores"
+    },
+    {
+      "name": "Rubin",
+      "type": "item",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Items"
+    },
+    {
+      "name": "RubinOre",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Ores"
+    },
+    {
+      "name": "Carbin",
+      "type": "item",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Items"
+    },
+    {
+      "name": "CarbinOre",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Ores"
+    },
+    {
+      "name": "CarbinBlock",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Blocks"
+    },
+    {
+      "name": "Daikatana",
+      "type": "tool",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "DaikatanaHandle",
+      "type": "item",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "DaikatanaBladePart1",
+      "type": "item",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "DaikatanaBladePart2",
+      "type": "item",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "DaikatanaCrafting",
+      "type": "recipe",
+      "sortid": 265,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "DaikatanaHandleCrafting",
+      "type": "recipe",
+      "sortid": 266,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "DaikatanaBlade1Crafting",
+      "type": "recipe",
+      "sortid": 267,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "DaikatanaBlade2Crafting",
+      "type": "recipe",
+      "sortid": 268,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "SwordsAndSandalsBlocks",
+      "type": "tab",
+      "sortid": 269,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/CreativeTabs"
+    },
+    {
+      "name": "SwordsAndSandalsItems",
+      "type": "tab",
+      "sortid": 270,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/CreativeTabs"
+    },
+    {
+      "name": "SwordsAndSandalsParts",
+      "type": "tab",
+      "sortid": 271,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/CreativeTabs"
+    },
+    {
+      "name": "SwordsAndSandalsWeapons",
+      "type": "tab",
+      "sortid": 272,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/CreativeTabs"
+    },
+    {
+      "name": "SwordsAndSandalsArmors",
+      "type": "tab",
+      "sortid": 273,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/CreativeTabs"
+    },
+    {
+      "name": "BlockOfCarbin",
+      "type": "recipe",
+      "sortid": 274,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "PolishedObsidianIngot",
+      "type": "item",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Items"
+    },
+    {
+      "name": "Crystal",
+      "type": "item",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Items"
+    },
+    {
+      "name": "CrystalOre",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Ores"
+    },
+    {
+      "name": "BlockOfCrystal",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Blocks"
+    },
+    {
+      "name": "KensaiSpirit",
+      "type": "tool",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "AncesorKatana",
+      "type": "tool",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "KensaiSpiritHandle",
+      "type": "item",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "KensaiSpiritBladePart1",
+      "type": "item",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "KensaiSpiritBladePart2",
+      "type": "item",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "KensaiSpiritCrafting",
+      "type": "recipe",
+      "sortid": 275,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "KensaiSpiritHandleCrafting",
+      "type": "recipe",
+      "sortid": 276,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "KensaiSpiritBlade1Crafting",
+      "type": "recipe",
+      "sortid": 277,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "KensaiSpiritBlade2Crafting",
+      "type": "recipe",
+      "sortid": 278,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "AncesorKatanaHandle",
+      "type": "item",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "AncesorKatanaBladePart1",
+      "type": "item",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "AncesorKatanaBladePart2",
+      "type": "item",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "AncesorKatanaHandleCrafting",
+      "type": "recipe",
+      "sortid": 279,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "AncesorKatanaBlade1",
+      "type": "recipe",
+      "sortid": 280,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "AncesorKatanaBlade2Crafting",
+      "type": "recipe",
+      "sortid": 281,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "AncesorKatanaCrafting",
+      "type": "recipe",
+      "sortid": 282,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "KatanaHandle",
+      "type": "item",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "KatanaBladePart1",
+      "type": "item",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "KatanaBladePart2",
+      "type": "item",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "Katana",
+      "type": "tool",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "KatanaHandleCrafting",
+      "type": "recipe",
+      "sortid": 283,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "KatanaBlade1Crafting",
+      "type": "recipe",
+      "sortid": 284,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "KatanaBlade2Crafting",
+      "type": "recipe",
+      "sortid": 285,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "RajScimitar",
+      "type": "tool",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "RajScimitarHandle",
+      "type": "item",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "RajScimitarBlade",
+      "type": "item",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "RajScimitarCrafting",
+      "type": "recipe",
+      "sortid": 286,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "RajScimitarHandleCrafting",
+      "type": "recipe",
+      "sortid": 287,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "RajScimitarBladeCrafting",
+      "type": "recipe",
+      "sortid": 288,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BlockOfSaphire",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Blocks"
+    },
+    {
+      "name": "BlockOfCrystalCrafting",
+      "type": "recipe",
+      "sortid": 289,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BlockOfSaphireCrafting",
+      "type": "recipe",
+      "sortid": 290,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BlockOfRubin",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Blocks"
+    },
+    {
+      "name": "BlockOfBronze",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Blocks"
+    },
+    {
+      "name": "BlockOfAmethyst",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Blocks"
+    },
+    {
+      "name": "BlockOfRubinCrafting",
+      "type": "recipe",
+      "sortid": 291,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BlockOfBronzeCrafting",
+      "type": "recipe",
+      "sortid": 292,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BlockOfAmethystCrafting",
+      "type": "recipe",
+      "sortid": 293,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Scimitar",
+      "type": "tool",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "ScimitarHandle",
+      "type": "item",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "ScimitarBlade",
+      "type": "item",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "ScimitarCrafting",
+      "type": "recipe",
+      "sortid": 294,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "ScimitarHandleCrafting",
+      "type": "recipe",
+      "sortid": 295,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "ScimitarBladeCrafting",
+      "type": "recipe",
+      "sortid": 296,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Cutlas",
+      "type": "tool",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "CutlasHandle",
+      "type": "item",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "CutlasBlade",
+      "type": "item",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "CutlasCrafting",
+      "type": "recipe",
+      "sortid": 297,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "CutlasHandleCrafting",
+      "type": "recipe",
+      "sortid": 298,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "CutlasBladeCrafting",
+      "type": "recipe",
+      "sortid": 299,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Rapier",
+      "type": "tool",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "RapierHandle",
+      "type": "item",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "RapierBlade",
+      "type": "item",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "RapierCrafting",
+      "type": "recipe",
+      "sortid": 300,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "RapierHCraft",
+      "type": "recipe",
+      "sortid": 301,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "RapierBladeCraft",
+      "type": "recipe",
+      "sortid": 302,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "CrystalSword",
+      "type": "tool",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "CrystalSwordHandle",
+      "type": "item",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "CrystalSwordBlade",
+      "type": "item",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "CSCraft",
+      "type": "recipe",
+      "sortid": 303,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "CrystalHandleCraft",
+      "type": "recipe",
+      "sortid": 304,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "CrystalBladeCrafting",
+      "type": "recipe",
+      "sortid": 305,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Heartblade",
+      "type": "tool",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "HeartbladeHandle",
+      "type": "item",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "HeartbladeBlade",
+      "type": "item",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "HeartbladeCraft",
+      "type": "recipe",
+      "sortid": 306,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "HeartHandleCraft",
+      "type": "recipe",
+      "sortid": 307,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "HeartBladeCrafting",
+      "type": "recipe",
+      "sortid": 308,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "SilverLongsword",
+      "type": "tool",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "SilverLongswordHandle",
+      "type": "item",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "SilverLongswordBlade",
+      "type": "item",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "SilverCraft",
+      "type": "recipe",
+      "sortid": 309,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "SilverHandlecraft",
+      "type": "recipe",
+      "sortid": 310,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "SilverBladecraft",
+      "type": "recipe",
+      "sortid": 311,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Knightsword",
+      "type": "tool",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "Knightswordhandle",
+      "type": "item",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "KnightsordBlade",
+      "type": "item",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "Knightswordhandlecraft",
+      "type": "recipe",
+      "sortid": 312,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Kswordbladecraft",
+      "type": "recipe",
+      "sortid": 313,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Longsword",
+      "type": "tool",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "Bastardsword",
+      "type": "tool",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "Claymore",
+      "type": "tool",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "Broadsword",
+      "type": "tool",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "Gladius",
+      "type": "tool",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "Dirk",
+      "type": "tool",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "Shortsword",
+      "type": "tool",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "Dagger",
+      "type": "tool",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "LongswordHandle",
+      "type": "item",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "LongswordBlade",
+      "type": "item",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "BastardswordHandle",
+      "type": "item",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "BastardswordBlade",
+      "type": "item",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "ClaymoreHandle",
+      "type": "item",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "ClaymoreBlade",
+      "type": "item",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "BroadswordHandle",
+      "type": "item",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "BroadswordBlade",
+      "type": "item",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "GladiusHandle",
+      "type": "item",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "GladiusBlade",
+      "type": "item",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "LongswordHandlecraft",
+      "type": "recipe",
+      "sortid": 314,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Longswordbladecraft",
+      "type": "recipe",
+      "sortid": 315,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Knightswordcrafting",
+      "type": "recipe",
+      "sortid": 316,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Longswordcrafting",
+      "type": "recipe",
+      "sortid": 317,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Bastardswordcraft",
+      "type": "recipe",
+      "sortid": 318,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Bastardhandlecraft",
+      "type": "recipe",
+      "sortid": 319,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Bastardbladecraft",
+      "type": "recipe",
+      "sortid": 320,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Claymorecraft",
+      "type": "recipe",
+      "sortid": 321,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Claymorehandlecraft",
+      "type": "recipe",
+      "sortid": 322,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Claymorebladecfraft",
+      "type": "recipe",
+      "sortid": 323,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Broadswordcraft",
+      "type": "recipe",
+      "sortid": 324,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Broadhandlecraft",
+      "type": "recipe",
+      "sortid": 325,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Broadbladecraft",
+      "type": "recipe",
+      "sortid": 326,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Gladiuscraft",
+      "type": "recipe",
+      "sortid": 327,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Gladiushandlecraft",
+      "type": "recipe",
+      "sortid": 328,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Gladiusbladecraft",
+      "type": "recipe",
+      "sortid": 329,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Dirkcraft",
+      "type": "recipe",
+      "sortid": 330,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Shortswordcraft",
+      "type": "recipe",
+      "sortid": 331,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Daggercraft",
+      "type": "recipe",
+      "sortid": 332,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BladeOfTheEmpire",
+      "type": "tool",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "Carbinzblocka",
+      "type": "recipe",
+      "sortid": 333,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Crystalzblocka",
+      "type": "recipe",
+      "sortid": 334,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Saphirezblockuy",
+      "type": "recipe",
+      "sortid": 335,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Rubinzblocka",
+      "type": "recipe",
+      "sortid": 336,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Bronzezblocka",
+      "type": "recipe",
+      "sortid": 337,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Amethystzblocka",
+      "type": "recipe",
+      "sortid": 338,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "EmperorsArmorBootsTickEvent",
+      "type": "procedure",
+      "sortid": 339,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "EmperorsArmorLeggingsTickEvent",
+      "type": "procedure",
+      "sortid": 340,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "EmperorsArmorBodyTickEvent",
+      "type": "procedure",
+      "sortid": 341,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "EmperorsArmorHelmetTickEvent",
+      "type": "procedure",
+      "sortid": 342,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "EmperorsArmor",
+      "type": "armor",
+      "sortid": 231,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Armor"
+    },
+    {
+      "name": "ReaperScythe",
+      "type": "tool",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "Pilum",
+      "type": "tool",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "ReaperScytheStick",
+      "type": "item",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "ReaperScytheBlade",
+      "type": "item",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "PilumStick",
+      "type": "item",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "PilumBlade",
+      "type": "item",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "ReaperScytheCraft",
+      "type": "recipe",
+      "sortid": 343,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "PilumCraft",
+      "type": "recipe",
+      "sortid": 344,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "PilumStickCraft",
+      "type": "recipe",
+      "sortid": 345,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "PilumBladeCraft",
+      "type": "recipe",
+      "sortid": 346,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "ReaperScytheStickCraft",
+      "type": "recipe",
+      "sortid": 347,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "REaperScytheBladeCraft",
+      "type": "recipe",
+      "sortid": 348,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Poleaxe",
+      "type": "tool",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "PoleaxeBlade",
+      "type": "item",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "PoleaxeStick",
+      "type": "item",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "PoleaxeCraft",
+      "type": "recipe",
+      "sortid": 349,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "PoleaxeBladeCraft",
+      "type": "recipe",
+      "sortid": 350,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "PoleaxeStickCraft",
+      "type": "recipe",
+      "sortid": 351,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Halberd",
+      "type": "tool",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "HalberdStick",
+      "type": "item",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "HalberdSpike",
+      "type": "item",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "AwlPike",
+      "type": "tool",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "AwlPikeStick",
+      "type": "item",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "AwlPikeBlade",
+      "type": "item",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "HalberdCraft",
+      "type": "recipe",
+      "sortid": 352,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "HalberdStickCraft",
+      "type": "recipe",
+      "sortid": 353,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "HalberdSpikeCraft",
+      "type": "recipe",
+      "sortid": 354,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "AwlPikeCraft",
+      "type": "recipe",
+      "sortid": 355,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "AwlPikeStickCraft",
+      "type": "recipe",
+      "sortid": 356,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "AwlPikeBladeCraft",
+      "type": "recipe",
+      "sortid": 357,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "RamheadSickle",
+      "type": "tool",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "RamheadSickleStick",
+      "type": "item",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "RamheadSickleBlade",
+      "type": "item",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "RamAntlers",
+      "type": "item",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Items"
+    },
+    {
+      "name": "RamheadSickleCraft",
+      "type": "recipe",
+      "sortid": 358,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "RamheadSickleStickCraft",
+      "type": "recipe",
+      "sortid": 359,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "RamheadSickleBladeCraft",
+      "type": "recipe",
+      "sortid": 360,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "RamAntlersCraft",
+      "type": "recipe",
+      "sortid": 361,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "HunterSpear",
+      "type": "tool",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "HunterSpearStick",
+      "type": "item",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "HunterSpearSpike",
+      "type": "item",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "HunterSpearCraft",
+      "type": "recipe",
+      "sortid": 362,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "HunterSpearBladeCraft",
+      "type": "recipe",
+      "sortid": 363,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "HunterSpearStickCrafat",
+      "type": "recipe",
+      "sortid": 364,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "OgreBattleaxe",
+      "type": "tool",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "OgreBattleaxeStick",
+      "type": "item",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "OgreBattleaxeBlade",
+      "type": "item",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "OgreBattleaxeCraft",
+      "type": "recipe",
+      "sortid": 365,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "OgreBattleaxeBladeCraft",
+      "type": "recipe",
+      "sortid": 366,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BlacksteelBattleaxe",
+      "type": "tool",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "SteelBattleaxe",
+      "type": "tool",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "OgreBattleaxeStickCraft",
+      "type": "recipe",
+      "sortid": 367,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BlacksteelBattleaxeBlade",
+      "type": "item",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "BlacksteelBattleaxeStick",
+      "type": "item",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "BsBattleaxecraft",
+      "type": "recipe",
+      "sortid": 368,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BsBattleaxeBladeCraft",
+      "type": "recipe",
+      "sortid": 369,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BsBattleaxeStickCraft",
+      "type": "recipe",
+      "sortid": 370,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "SteelBattleaxeBlade",
+      "type": "item",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "SteelBattleaxeStick",
+      "type": "item",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "SteelBattleaxeCraft",
+      "type": "recipe",
+      "sortid": 371,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "SteelBattleaxeBladeCraft",
+      "type": "recipe",
+      "sortid": 372,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "SteelBattleaxeStickCraft",
+      "type": "recipe",
+      "sortid": 373,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "IronGreataxe",
+      "type": "tool",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "IronGreataxeBlade",
+      "type": "item",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "IronGreataxeStick",
+      "type": "item",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "Irongaxecraft",
+      "type": "recipe",
+      "sortid": 374,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "IronGreataxeBladeCraft",
+      "type": "recipe",
+      "sortid": 375,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "IronGreataxeStickCraft",
+      "type": "recipe",
+      "sortid": 376,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Greataxe",
+      "type": "tool",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "GreataxeBlade",
+      "type": "item",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "GreataxeStick",
+      "type": "item",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "GreataxeCraft",
+      "type": "recipe",
+      "sortid": 377,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "GreataxeBladeCraft",
+      "type": "recipe",
+      "sortid": 378,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "GreataxeStickCraft",
+      "type": "recipe",
+      "sortid": 379,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "MadmansCleaver",
+      "type": "tool",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "GreensteelAxe",
+      "type": "tool",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "GreensteelAxeBlade",
+      "type": "item",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "GreensteelAxeStick",
+      "type": "item",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "MadmansCleaverBlade",
+      "type": "item",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "MadmansCleaverStick",
+      "type": "item",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "MadmanCraft",
+      "type": "recipe",
+      "sortid": 380,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "MadmansBladeCraft",
+      "type": "recipe",
+      "sortid": 381,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "MadmansStickCraft",
+      "type": "recipe",
+      "sortid": 382,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "GreensteelAxeCraft",
+      "type": "recipe",
+      "sortid": 383,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "GreensteelAxeBladeCraft",
+      "type": "recipe",
+      "sortid": 384,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "GreensteelAxeStickCraft",
+      "type": "recipe",
+      "sortid": 385,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BerserkerAxe",
+      "type": "tool",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "BerserkerAxeBlade",
+      "type": "item",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "BerserkerAxeStick",
+      "type": "item",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Parts"
+    },
+    {
+      "name": "BerserkerAxeCraft",
+      "type": "recipe",
+      "sortid": 386,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BerserkerAxeStickCraft",
+      "type": "recipe",
+      "sortid": 387,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BerserkerAxeBladeCraft",
+      "type": "recipe",
+      "sortid": 388,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "WarriorAxe",
+      "type": "tool",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "Hatchet",
+      "type": "tool",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "BronzeAxe",
+      "type": "tool",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "HandAxe",
+      "type": "tool",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "Cleaver",
+      "type": "tool",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Weapons"
+    },
+    {
+      "name": "WarriorAxeCraft",
+      "type": "recipe",
+      "sortid": 389,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "HatchetCraft",
+      "type": "recipe",
+      "sortid": 390,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BronzeAxeCraft",
+      "type": "recipe",
+      "sortid": 391,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "HandAxeCraft",
+      "type": "recipe",
+      "sortid": 392,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "CleaverCraft",
+      "type": "recipe",
+      "sortid": 393,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "path": "~/Crafting"
+    },
+    {
+      "name": "ChampionArmor",
+      "type": "armor",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "champion_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Armor"
+    },
+    {
+      "name": "ChampionArmorHelmetTickEvent",
+      "type": "procedure",
+      "sortid": 394,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "champion_armor_helmet_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "DiamondPlume",
+      "type": "item",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_plume",
+      "path": "~/Items"
+    },
+    {
+      "name": "ChampionComposite",
+      "type": "item",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "champion_composite",
+      "path": "~/Items"
+    },
+    {
+      "name": "ChampionCompositeCraft",
+      "type": "recipe",
+      "sortid": 395,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "champion_composite_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "DiamondPlumeCraft",
+      "type": "recipe",
+      "sortid": 396,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_plume_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "ChampionHelmetCraft",
+      "type": "recipe",
+      "sortid": 397,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "champion_helmet_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "ChampionArmorBodyTickEvent",
+      "type": "procedure",
+      "sortid": 398,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "champion_armor_body_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "ChampionChestplatePart",
+      "type": "item",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "champion_chestplate_part",
+      "path": "~/Parts"
+    },
+    {
+      "name": "ChampionChestplatePartCraft",
+      "type": "recipe",
+      "sortid": 399,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "champion_chestplate_part_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "ChampionChestplateCraft",
+      "type": "recipe",
+      "sortid": 400,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "champion_chestplate_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "ChampionArmorLeggingsTickEvent",
+      "type": "procedure",
+      "sortid": 401,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "champion_armor_leggings_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "ChampionArmorBootsTickEvent",
+      "type": "procedure",
+      "sortid": 402,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "champion_armor_boots_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "ChampionLegginsCraft",
+      "type": "recipe",
+      "sortid": 403,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "champion_leggins_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "ChampionBoot",
+      "type": "item",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "champion_boot",
+      "path": "~/Parts"
+    },
+    {
+      "name": "ChampionBootCraft",
+      "type": "recipe",
+      "sortid": 404,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "champion_boot_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "ChampionBootsCraft",
+      "type": "recipe",
+      "sortid": 405,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "champion_boots_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BlockOfChampionComposite",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_of_champion_composite",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "BOCCCraft",
+      "type": "recipe",
+      "sortid": 406,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bocc_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BOCCDecraft",
+      "type": "recipe",
+      "sortid": 407,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bocc_decraft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BlockOfImpureEmerald",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_of_impure_emerald",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "IMB",
+      "type": "recipe",
+      "sortid": 408,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "imb",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "IEBuncraft",
+      "type": "recipe",
+      "sortid": 409,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ie_buncraft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "DualMaul",
+      "type": "tool",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dual_maul",
+      "path": "~/Weapons"
+    },
+    {
+      "name": "DualMaulStick",
+      "type": "item",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dual_maul_stick",
+      "path": "~/Parts"
+    },
+    {
+      "name": "DualMaulBlade",
+      "type": "item",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dual_maul_blade",
+      "path": "~/Parts"
+    },
+    {
+      "name": "DualMaulStickCraft",
+      "type": "recipe",
+      "sortid": 410,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dual_maul_stick_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "DualMaulBladeCraft",
+      "type": "recipe",
+      "sortid": 411,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dual_maul_blade_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "DualMaulCraft",
+      "type": "recipe",
+      "sortid": 412,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dual_maul_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "QuakeStaff",
+      "type": "tool",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quake_staff",
+      "path": "~/Weapons"
+    },
+    {
+      "name": "QuakeStaffStick",
+      "type": "item",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quake_staff_stick",
+      "path": "~/Parts"
+    },
+    {
+      "name": "QuakeStaffBlade",
+      "type": "item",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quake_staff_blade",
+      "path": "~/Parts"
+    },
+    {
+      "name": "QuakeStaffCraft",
+      "type": "recipe",
+      "sortid": 413,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quake_staff_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "QuakeStaffStickCraft",
+      "type": "recipe",
+      "sortid": 414,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quake_staff_stick_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "QuakeStaffBladeCraft",
+      "type": "recipe",
+      "sortid": 415,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quake_staff_blade_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "KatanaCrafting",
+      "type": "recipe",
+      "sortid": 416,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "katana_crafting",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "PeasentArmor",
+      "type": "armor",
+      "sortid": 244,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "peasent_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": false
+      },
+      "path": "~/Armor"
+    },
+    {
+      "name": "PeasantHelmetCraft",
+      "type": "recipe",
+      "sortid": 417,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "peasant_helmet_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "PeasantChestplateCraft",
+      "type": "recipe",
+      "sortid": 418,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "peasant_chestplate_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "PeasantLegginsCraft",
+      "type": "recipe",
+      "sortid": 419,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "peasant_leggins_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "PeasantBootsCraft",
+      "type": "recipe",
+      "sortid": 420,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "peasant_boots_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "CutpurseArmor",
+      "type": "armor",
+      "sortid": 243,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "cutpurse_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Armor"
+    },
+    {
+      "name": "PeasantArmor",
+      "type": "armor",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "peasant_armor",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": false,
+        "ec": true
+      },
+      "path": "~/Armor"
+    },
+    {
+      "name": "CutpruseHelmCraft",
+      "type": "recipe",
+      "sortid": 421,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cutpruse_helm_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "CutpruseChestplate",
+      "type": "recipe",
+      "sortid": 422,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cutpruse_chestplate",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "CutpurseLegginscraft",
+      "type": "recipe",
+      "sortid": 423,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cutpurse_legginscraft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "CutpurseBootsCraft",
+      "type": "recipe",
+      "sortid": 424,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cutpurse_boots_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "ConquererComposite",
+      "type": "item",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "conquerer_composite",
+      "path": "~/Items"
+    },
+    {
+      "name": "ConquererCompositeCraft",
+      "type": "recipe",
+      "sortid": 425,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "conquerer_composite_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "ConquererHelmetPart",
+      "type": "item",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "conquerer_helmet_part",
+      "path": "~/Parts"
+    },
+    {
+      "name": "ConquererHelmetPartCraft",
+      "type": "recipe",
+      "sortid": 426,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "conquerer_helmet_part_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "ConquererArmor",
+      "type": "armor",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "conquerer_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Armor"
+    },
+    {
+      "name": "ConquererHelmetCraft",
+      "type": "recipe",
+      "sortid": 427,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "conquerer_helmet_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BlockOfConqererComposite",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_of_conqerer_composite",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "ConquererArmorHelmetTickEvent",
+      "type": "procedure",
+      "sortid": 428,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "conquerer_armor_helmet_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "ConquererArmorBodyTickEvent",
+      "type": "procedure",
+      "sortid": 429,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "conquerer_armor_body_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "ConquererChestplateCraft",
+      "type": "recipe",
+      "sortid": 430,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "conquerer_chestplate_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BrigandArmour",
+      "type": "armor",
+      "sortid": 242,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "brigand_armour",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Armor"
+    },
+    {
+      "name": "BrigandHelmetCraft",
+      "type": "recipe",
+      "sortid": 431,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brigand_helmet_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BrigandeChestplateCraft",
+      "type": "recipe",
+      "sortid": 432,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brigande_chestplate_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BrigandLegginsCrafting",
+      "type": "recipe",
+      "sortid": 433,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brigand_leggins_crafting",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BrigandBootCrafting",
+      "type": "recipe",
+      "sortid": 434,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brigand_boot_crafting",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "ConquererBootsCraft",
+      "type": "recipe",
+      "sortid": 435,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "conquerer_boots_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "ConquererLegginsCraft",
+      "type": "recipe",
+      "sortid": 436,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "conquerer_leggins_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "ConquererBlockCraft",
+      "type": "recipe",
+      "sortid": 437,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "conquerer_block_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "EmperorAntaresEntityDies",
+      "type": "procedure",
+      "sortid": 438,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emperor_antares_entity_dies",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "EmperorAntares",
+      "type": "mob",
+      "sortid": 439,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 7,
+        "1": 8
+      },
+      "registry_name": "emperor_antares",
+      "path": "~/Gladiators"
+    },
+    {
+      "name": "SwordsAndSandalsII",
+      "type": "musicdisc",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "swords_and_sandals_ii",
+      "path": "~/Items"
+    },
+    {
+      "name": "SummonEmperorAntaresCommandExecuted",
+      "type": "procedure",
+      "sortid": 440,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "summon_emperor_antares_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "EmperorAntaresOnEntityTickUpdate",
+      "type": "procedure",
+      "sortid": 441,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emperor_antares_on_entity_tick_update",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "PlayerDie",
+      "type": "procedure",
+      "sortid": 442,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "player_die",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "MilitiaArmor",
+      "type": "armor",
+      "sortid": 241,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "militia_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Armor"
+    },
+    {
+      "name": "MilitiaHelmCrafting",
+      "type": "recipe",
+      "sortid": 443,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "militia_helm_crafting",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BlockOfPolishedCrystal",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_of_polished_crystal",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "BlockOfMarble",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_of_marble",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "BlockOfPolishedCrystal2",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_of_polished_crystal_2",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "BlockOfPolishedCrystal2stairs",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_of_polished_crystal_2stairs",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "AmethystPillar",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethyst_pillar",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "MethystPillarTop",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "methyst_pillar_top",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "BockOfPolishesCrystalCrafting",
+      "type": "recipe",
+      "sortid": 444,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bock_of_polishes_crystal_crafting",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BlockOfPolishedCrystalPurple",
+      "type": "recipe",
+      "sortid": 445,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_of_polished_crystal_purple",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "AmethystPillarBaseCraft",
+      "type": "recipe",
+      "sortid": 446,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethyst_pillar_base_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "AmethystPillarTop",
+      "type": "recipe",
+      "sortid": 447,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethyst_pillar_top",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "EmperorsThrone",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emperors_throne",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "PoduszkaWCupniakuOnEntityTickUpdate",
+      "type": "procedure",
+      "sortid": 448,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poduszka_w_cupniaku_on_entity_tick_update",
+      "metadata": {
+        "dependencies": []
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "WicksStaff",
+      "type": "tool",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wicks_staff",
+      "path": "~/Weapons"
+    },
+    {
+      "name": "BhaarglesArmorHelmetTickEvent",
+      "type": "procedure",
+      "sortid": 449,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bhaargles_armor_helmet_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "BhaarglesArmorBodyTickEvent",
+      "type": "procedure",
+      "sortid": 450,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bhaargles_armor_body_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "BhaarglesArmor",
+      "type": "armor",
+      "sortid": 235,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "bhaargles_armor",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": true
+      },
+      "path": "~/Armor"
+    },
+    {
+      "name": "BhaargleYarg",
+      "type": "mob",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 13,
+        "1": 14
+      },
+      "registry_name": "bhaargle_yarg",
+      "path": "~/Gladiators"
+    },
+    {
+      "name": "BhaarglesCollar",
+      "type": "item",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bhaargles_collar",
+      "path": "~/Parts"
+    },
+    {
+      "name": "CollarCtaft",
+      "type": "recipe",
+      "sortid": 451,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "collar_ctaft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BhaargleYargEntityDies",
+      "type": "procedure",
+      "sortid": 452,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bhaargle_yarg_entity_dies",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "BhaargleYargOnEntityTickUpdate",
+      "type": "procedure",
+      "sortid": 453,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bhaargle_yarg_on_entity_tick_update",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "ZabijaczPoduszekOnEntityTickUpdate",
+      "type": "procedure",
+      "sortid": 454,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zabijacz_poduszek_on_entity_tick_update",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "WhieLedge",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "whie_ledge",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "BlockOfPolishedPurpleCrystalStairs",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_of_polished_purple_crystal_stairs",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "BlockOfMarbleStairs",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_of_marble_stairs",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "BlockOfMarbleSlab",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_of_marble_slab",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "WhiteLedgeCorner",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_ledge_corner",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "MilitiaChestplateCrft",
+      "type": "recipe",
+      "sortid": 455,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "militia_chestplate_crft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "MilitiaLegginsCrafting",
+      "type": "recipe",
+      "sortid": 456,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "militia_leggins_crafting",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "MilitiaBoot",
+      "type": "item",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "militia_boot",
+      "path": "~/Parts"
+    },
+    {
+      "name": "MilitiaBootsCraft",
+      "type": "recipe",
+      "sortid": 457,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "militia_boots_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "MilitiaBootsCrafting",
+      "type": "recipe",
+      "sortid": 458,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "militia_boots_crafting",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BonecrusherCudgel",
+      "type": "tool",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bonecrusher_cudgel",
+      "path": "~/Weapons"
+    },
+    {
+      "name": "BonecrusherCudgelBladePart",
+      "type": "item",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bonecrusher_cudgel_blade_part",
+      "path": "~/Parts"
+    },
+    {
+      "name": "BonecrusherCudgelHandle",
+      "type": "item",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bonecrusher_cudgel_handle",
+      "path": "~/Parts"
+    },
+    {
+      "name": "BonecrusherCudgelCrafing",
+      "type": "recipe",
+      "sortid": 459,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bonecrusher_cudgel_crafing",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BonecrusherCudgelBladePartCraft",
+      "type": "recipe",
+      "sortid": 460,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bonecrusher_cudgel_blade_part_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BonecrusherCudgelHandleCrafting",
+      "type": "recipe",
+      "sortid": 461,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bonecrusher_cudgel_handle_crafting",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "ImperialWarhammer",
+      "type": "tool",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "imperial_warhammer",
+      "path": "~/Weapons"
+    },
+    {
+      "name": "MperialWarhammerBladePart",
+      "type": "item",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mperial_warhammer_blade_part",
+      "path": "~/Parts"
+    },
+    {
+      "name": "ImperialWarhammerStick",
+      "type": "item",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "imperial_warhammer_stick",
+      "path": "~/Parts"
+    },
+    {
+      "name": "ImperialwarhammerCraft",
+      "type": "recipe",
+      "sortid": 462,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "imperialwarhammer_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "ImperialwarhammerBladepartCraft",
+      "type": "recipe",
+      "sortid": 463,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "imperialwarhammer_bladepart_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "ImperialwarhammerStickCraft",
+      "type": "recipe",
+      "sortid": 464,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "imperialwarhammer_stick_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "HeavyMallet",
+      "type": "tool",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heavy_mallet",
+      "path": "~/Weapons"
+    },
+    {
+      "name": "HeavyMalletBladePart",
+      "type": "item",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heavy_mallet_blade_part",
+      "path": "~/Parts"
+    },
+    {
+      "name": "HeavyMalletStick",
+      "type": "item",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heavy_mallet_stick",
+      "path": "~/Parts"
+    },
+    {
+      "name": "HeavyMalletStickCraft",
+      "type": "recipe",
+      "sortid": 465,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heavy_mallet_stick_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "HeavyMalletBladePartCraft",
+      "type": "recipe",
+      "sortid": 466,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heavy_mallet_blade_part_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "HeavyMalletCrafting",
+      "type": "recipe",
+      "sortid": 467,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heavy_mallet_crafting",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "ClawHammer",
+      "type": "tool",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "claw_hammer",
+      "path": "~/Weapons"
+    },
+    {
+      "name": "ClawHammerBladePart",
+      "type": "item",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "claw_hammer_blade_part",
+      "path": "~/Parts"
+    },
+    {
+      "name": "ClawHammerStick",
+      "type": "item",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "claw_hammer_stick",
+      "path": "~/Parts"
+    },
+    {
+      "name": "ClawHammerStickCraft",
+      "type": "recipe",
+      "sortid": 468,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "claw_hammer_stick_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "ClawHammerBladePartCrafting",
+      "type": "recipe",
+      "sortid": 469,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "claw_hammer_blade_part_crafting",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "ClawHammerCrafting",
+      "type": "recipe",
+      "sortid": 470,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "claw_hammer_crafting",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "LightningBoltBulletHitsBlock",
+      "type": "procedure",
+      "sortid": 471,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightning_bolt_bullet_hits_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "LightningBoltRangedItemUsed",
+      "type": "procedure",
+      "sortid": 472,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightning_bolt_ranged_item_used",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "LightningBolt",
+      "type": "gun",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {
+        "0": 15
+      },
+      "registry_name": "lightning_bolt",
+      "path": "~/Magic Items"
+    },
+    {
+      "name": "RejuvinateFoodEaten",
+      "type": "procedure",
+      "sortid": 473,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rejuvinate_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "SledgeHammer",
+      "type": "tool",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sledge_hammer",
+      "path": "~/Weapons"
+    },
+    {
+      "name": "SledgeHammerStick",
+      "type": "item",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sledge_hammer_stick",
+      "path": "~/Parts"
+    },
+    {
+      "name": "SledgeHammerBladePart",
+      "type": "item",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sledge_hammer_blade_part",
+      "path": "~/Parts"
+    },
+    {
+      "name": "SledgeHammerCraft",
+      "type": "recipe",
+      "sortid": 474,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sledge_hammer_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "SledgeHammerStickCrafting",
+      "type": "recipe",
+      "sortid": 475,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sledge_hammer_stick_crafting",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "SledgeHammerBladePartCrafting",
+      "type": "recipe",
+      "sortid": 476,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sledge_hammer_blade_part_crafting",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "SpikedMaul",
+      "type": "tool",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spiked_maul",
+      "path": "~/Weapons"
+    },
+    {
+      "name": "SpikedMaulBladePart",
+      "type": "item",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spiked_maul_blade_part",
+      "path": "~/Parts"
+    },
+    {
+      "name": "SpikedMaulStick",
+      "type": "item",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spiked_maul_stick",
+      "path": "~/Parts"
+    },
+    {
+      "name": "SpikedMaulBladePartCrafting",
+      "type": "recipe",
+      "sortid": 477,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spiked_maul_blade_part_crafting",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "SpikedMaulStickCrafting",
+      "type": "recipe",
+      "sortid": 478,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spiked_maul_stick_crafting",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "SpikedMaulCrafting",
+      "type": "recipe",
+      "sortid": 479,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spiked_maul_crafting",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Maul",
+      "type": "tool",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "maul",
+      "path": "~/Weapons"
+    },
+    {
+      "name": "MaulBladePart",
+      "type": "item",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "maul_blade_part",
+      "path": "~/Parts"
+    },
+    {
+      "name": "MaulSick",
+      "type": "item",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "maul_sick",
+      "path": "~/Parts"
+    },
+    {
+      "name": "MaulBladePartCrafting",
+      "type": "recipe",
+      "sortid": 480,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "maul_blade_part_crafting",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "MaulStick",
+      "type": "recipe",
+      "sortid": 481,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "maul_stick",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "MaulCrafting",
+      "type": "recipe",
+      "sortid": 482,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "maul_crafting",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "StuddedMace",
+      "type": "tool",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "studded_mace",
+      "path": "~/Weapons"
+    },
+    {
+      "name": "StuddedMaceBladepart",
+      "type": "item",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "studded_mace_bladepart",
+      "path": "~/Parts"
+    },
+    {
+      "name": "StuddedMaceStick",
+      "type": "item",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "studded_mace_stick",
+      "path": "~/Parts"
+    },
+    {
+      "name": "StuddedMaceCrafting",
+      "type": "recipe",
+      "sortid": 483,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "studded_mace_crafting",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "StuddedMaceBladePartCrafting",
+      "type": "recipe",
+      "sortid": 484,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "studded_mace_blade_part_crafting",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "StuddedMaceStickCrafting",
+      "type": "recipe",
+      "sortid": 485,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "studded_mace_stick_crafting",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "MoltenRockEntityDies",
+      "type": "procedure",
+      "sortid": 486,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "molten_rock_entity_dies",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "MoltenRock",
+      "type": "mob",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 16,
+        "1": 17
+      },
+      "registry_name": "molten_rock"
+    },
+    {
+      "name": "MoltenDead",
+      "type": "gun",
+      "sortid": 263,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {
+        "0": 18
+      },
+      "registry_name": "molten_dead",
+      "path": "~/Magic Items"
+    },
+    {
+      "name": "MoltenDeadBulletHitsBlock",
+      "type": "procedure",
+      "sortid": 487,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "molten_dead_bullet_hits_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "MoltenRockPlayerCollidesWithThisEntity",
+      "type": "procedure",
+      "sortid": 488,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "molten_rock_player_collides_with_this_entity",
+      "metadata": {
+        "dependencies": []
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "MoltenRockEntityFalls",
+      "type": "procedure",
+      "sortid": 489,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "molten_rock_entity_falls",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "MoltenDeadRangedItemUsed",
+      "type": "procedure",
+      "sortid": 490,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "molten_dead_ranged_item_used",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "MagicItems",
+      "type": "tab",
+      "sortid": 491,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_items",
+      "path": "~/CreativeTabs"
+    },
+    {
+      "name": "AncientGem",
+      "type": "item",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_gem",
+      "path": "~/Items"
+    },
+    {
+      "name": "AncientGem2",
+      "type": "item",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_gem_2",
+      "path": "~/Items"
+    },
+    {
+      "name": "AncientGem3",
+      "type": "item",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_gem_3",
+      "path": "~/Items"
+    },
+    {
+      "name": "MoltenDeathCraft",
+      "type": "recipe",
+      "sortid": 492,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "molten_death_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "LightningBoltCraft",
+      "type": "recipe",
+      "sortid": 493,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightning_bolt_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "RejuvinateCraft",
+      "type": "recipe",
+      "sortid": 494,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rejuvinate_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BoundlessEnergyCraft",
+      "type": "recipe",
+      "sortid": 495,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "boundless_energy_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Ancient2Craft",
+      "type": "recipe",
+      "sortid": 496,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_2_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Ancient3Craft",
+      "type": "recipe",
+      "sortid": 497,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_3_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "AncientGemOre",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_gem_ore",
+      "path": "~/Ores"
+    },
+    {
+      "name": "NetherAncientGemOre",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_ancient_gem_ore",
+      "path": "~/Ores"
+    },
+    {
+      "name": "VeteranArmor",
+      "type": "armor",
+      "sortid": 240,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "veteran_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Armor"
+    },
+    {
+      "name": "VeteranBoot",
+      "type": "item",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "veteran_boot",
+      "path": "~/Parts"
+    },
+    {
+      "name": "VeteranBootcrfat",
+      "type": "recipe",
+      "sortid": 498,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "veteran_bootcrfat",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "VeteranBootsCraft",
+      "type": "recipe",
+      "sortid": 499,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "veteran_boots_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "VetCraft6CHest",
+      "type": "recipe",
+      "sortid": 500,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vet_craft_6_c_hest",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "VetLegCraft",
+      "type": "recipe",
+      "sortid": 501,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vet_leg_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "VetHelmCraft",
+      "type": "recipe",
+      "sortid": 502,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vet_helm_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "KnightCrossbow",
+      "type": "gun",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {
+        "0": 19
+      },
+      "registry_name": "knight_crossbow",
+      "path": "~/Weapons"
+    },
+    {
+      "name": "KnightCrossbowBulletHitsBlock",
+      "type": "procedure",
+      "sortid": 503,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "knight_crossbow_bullet_hits_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "KnightCrossbowCraft",
+      "type": "recipe",
+      "sortid": 504,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "knight_crossbow_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "FrightningBolt",
+      "type": "gun",
+      "sortid": 259,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {
+        "0": 20
+      },
+      "registry_name": "frightning_bolt",
+      "path": "~/Magic Items"
+    },
+    {
+      "name": "FrightningBoltBulletHitsBlock",
+      "type": "procedure",
+      "sortid": 505,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frightning_bolt_bullet_hits_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "FrightningBoltCraft",
+      "type": "recipe",
+      "sortid": 506,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frightning_bolt_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "FrightningBoltRangedItemUsed",
+      "type": "procedure",
+      "sortid": 507,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frightning_bolt_ranged_item_used",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "MorningStar",
+      "type": "tool",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "morning_star",
+      "path": "~/Weapons"
+    },
+    {
+      "name": "MorningStarBlade",
+      "type": "item",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "morning_star_blade",
+      "path": "~/Parts"
+    },
+    {
+      "name": "MorningStarStick",
+      "type": "item",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "morning_star_stick",
+      "path": "~/Parts"
+    },
+    {
+      "name": "MorningStarCraft",
+      "type": "recipe",
+      "sortid": 508,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "morning_star_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "MorningStarBladeCraft",
+      "type": "recipe",
+      "sortid": 509,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "morning_star_blade_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "MorningStarStickCraft",
+      "type": "recipe",
+      "sortid": 510,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "morning_star_stick_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "FrightningBoltBulletHitsLivingEntity",
+      "type": "procedure",
+      "sortid": 511,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frightning_bolt_bullet_hits_living_entity",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "Warhammer",
+      "type": "tool",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "warhammer",
+      "path": "~/Weapons"
+    },
+    {
+      "name": "WarhammerHandle",
+      "type": "item",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "warhammer_handle",
+      "path": "~/Parts"
+    },
+    {
+      "name": "WarhammerHead",
+      "type": "item",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "warhammer_head",
+      "path": "~/Parts"
+    },
+    {
+      "name": "WarhammerCraft",
+      "type": "recipe",
+      "sortid": 512,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "warhammer_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "WarhammerHandleCraft",
+      "type": "recipe",
+      "sortid": 513,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "warhammer_handle_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "WarhammerHeadCraft",
+      "type": "recipe",
+      "sortid": 514,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "warhammer_head_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "SpikedMace",
+      "type": "tool",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spiked_mace",
+      "path": "~/Weapons"
+    },
+    {
+      "name": "SpikedMaceHead",
+      "type": "item",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spiked_mace_head",
+      "path": "~/Parts"
+    },
+    {
+      "name": "SpikedMaceHandle",
+      "type": "item",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spiked_mace_handle",
+      "path": "~/Parts"
+    },
+    {
+      "name": "SpikedMaceCraft",
+      "type": "recipe",
+      "sortid": 515,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spiked_mace_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "SpikedMaceHandleCraft",
+      "type": "recipe",
+      "sortid": 516,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spiked_mace_handle_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "SpikedMaceHeadCraft",
+      "type": "recipe",
+      "sortid": 517,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spiked_mace_head_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "SteelMace",
+      "type": "tool",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_mace",
+      "path": "~/Weapons"
+    },
+    {
+      "name": "SteelMaceHandle",
+      "type": "item",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_mace_handle",
+      "path": "~/Parts"
+    },
+    {
+      "name": "SteelMaceHead",
+      "type": "item",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_mace_head",
+      "path": "~/Parts"
+    },
+    {
+      "name": "SteelMaceCraft",
+      "type": "recipe",
+      "sortid": 518,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_mace_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "SteelMaceHeadCraft",
+      "type": "recipe",
+      "sortid": 519,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_mace_head_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "SteelMaceHandleCraft",
+      "type": "recipe",
+      "sortid": 520,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_mace_handle_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "MoltenRockEntityDies2",
+      "type": "procedure",
+      "sortid": 521,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "molten_rock_entity_dies_2",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "IronMace",
+      "type": "tool",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_mace",
+      "path": "~/Weapons"
+    },
+    {
+      "name": "IronMaceHead",
+      "type": "item",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_mace_head",
+      "path": "~/Parts"
+    },
+    {
+      "name": "IronMaceHandle",
+      "type": "item",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_mace_handle",
+      "path": "~/Parts"
+    },
+    {
+      "name": "IronMaceCraft",
+      "type": "recipe",
+      "sortid": 522,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_mace_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "IronMaceHandleCraft",
+      "type": "recipe",
+      "sortid": 523,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_mace_handle_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "IronMaceHeadCraft",
+      "type": "recipe",
+      "sortid": 524,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_mace_head_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "WoodenClub",
+      "type": "tool",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wooden_club",
+      "path": "~/Weapons"
+    },
+    {
+      "name": "KnuckleDuster",
+      "type": "tool",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "knuckle_duster",
+      "path": "~/Weapons"
+    },
+    {
+      "name": "Hammer",
+      "type": "tool",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hammer",
+      "path": "~/Weapons"
+    },
+    {
+      "name": "Blackjack",
+      "type": "tool",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blackjack",
+      "path": "~/Weapons"
+    },
+    {
+      "name": "WoodenClubCraft",
+      "type": "recipe",
+      "sortid": 525,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wooden_club_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "KnuckleDusterCraft",
+      "type": "recipe",
+      "sortid": 526,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "knuckle_duster_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "HammerCraft",
+      "type": "recipe",
+      "sortid": 527,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hammer_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BlackjackCraft",
+      "type": "recipe",
+      "sortid": 528,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blackjack_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BoundlessEnergy2PotionStartedapplied",
+      "type": "procedure",
+      "sortid": 529,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "boundless_energy_2_potion_startedapplied",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "BoundlessEnergy2",
+      "type": "potion",
+      "sortid": 530,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "boundless_energy_2",
+      "path": "~/Potions"
+    },
+    {
+      "name": "BoundlessEnergyFoodEaten",
+      "type": "procedure",
+      "sortid": 531,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "boundless_energy_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "BoundlessEnergy1",
+      "type": "item",
+      "sortid": 260,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "boundless_energy_1",
+      "path": "~/Magic Items"
+    },
+    {
+      "name": "Rejuvinate",
+      "type": "item",
+      "sortid": 262,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rejuvinate",
+      "path": "~/Magic Items"
+    },
+    {
+      "name": "RejuvinatePotionPotionStartedapplied",
+      "type": "procedure",
+      "sortid": 532,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rejuvinate_potion_potion_startedapplied",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "RejuvinatePotion",
+      "type": "potion",
+      "sortid": 533,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rejuvinate_potion",
+      "path": "~/Potions"
+    },
+    {
+      "name": "RegenerateOnPotionActiveTick",
+      "type": "procedure",
+      "sortid": 534,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "regenerate_on_potion_active_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "Regenerate",
+      "type": "potion",
+      "sortid": 535,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "regenerate",
+      "path": "~/Potions"
+    },
+    {
+      "name": "Regenerate1RightClickedInAir",
+      "type": "procedure",
+      "sortid": 536,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "regenerate_1_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "Regenerate1",
+      "type": "item",
+      "sortid": 261,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "regenerate_1",
+      "path": "~/Magic Items"
+    },
+    {
+      "name": "RegenerateCraft",
+      "type": "recipe",
+      "sortid": 537,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "regenerate_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "ImpureEmeraldOre",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "impure_emerald_ore",
+      "path": "~/Ores"
+    },
+    {
+      "name": "DiamondDrillCraft",
+      "type": "recipe",
+      "sortid": 538,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_drill_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "DrillBase",
+      "type": "item",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "drill_base",
+      "path": "~/Items"
+    },
+    {
+      "name": "DrillBaseCraft",
+      "type": "recipe",
+      "sortid": 539,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "drill_base_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "DiamondDrillHeadCraft",
+      "type": "recipe",
+      "sortid": 540,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_drill_head_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "AncientDrillHead",
+      "type": "item",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_drill_head",
+      "path": "~/Items"
+    },
+    {
+      "name": "AncientDrillCraft",
+      "type": "recipe",
+      "sortid": 541,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_drill_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "AncientDrillHeadCraft",
+      "type": "recipe",
+      "sortid": 542,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_drill_head_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "HopliteArmor",
+      "type": "armor",
+      "sortid": 239,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "hoplite_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Armor"
+    },
+    {
+      "name": "AutomatonArmor",
+      "type": "armor",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "automaton_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Armor"
+    },
+    {
+      "name": "AutomatonArmorHelmetTickEvent",
+      "type": "procedure",
+      "sortid": 543,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "automaton_armor_helmet_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "AutomatonArmorBodyTickEvent",
+      "type": "procedure",
+      "sortid": 544,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "automaton_armor_body_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "AutomatonArmorLeggingsTickEvent",
+      "type": "procedure",
+      "sortid": 545,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "automaton_armor_leggings_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "AutomatonArmorBootsTickEvent",
+      "type": "procedure",
+      "sortid": 546,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "automaton_armor_boots_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "AutomatonHelmetCraft",
+      "type": "recipe",
+      "sortid": 547,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "automaton_helmet_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "HopliteHelmetCraft",
+      "type": "recipe",
+      "sortid": 548,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hoplite_helmet_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "HopliteChestplateCraft",
+      "type": "recipe",
+      "sortid": 549,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hoplite_chestplate_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "HopliteLegginsCraft",
+      "type": "recipe",
+      "sortid": 550,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hoplite_leggins_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "HopliteBoot",
+      "type": "item",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hoplite_boot",
+      "path": "~/Parts"
+    },
+    {
+      "name": "HopliteBootsCraft",
+      "type": "recipe",
+      "sortid": 551,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hoplite_boots_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "HopliteBootCraft",
+      "type": "recipe",
+      "sortid": 552,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hoplite_boot_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "SwashbucklerArmor",
+      "type": "armor",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "swashbuckler_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Armor"
+    },
+    {
+      "name": "SwashbucklerHelmetCraft",
+      "type": "recipe",
+      "sortid": 553,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "swashbuckler_helmet_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "SwashbucklerChestplateCraft",
+      "type": "recipe",
+      "sortid": 554,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "swashbuckler_chestplate_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "SwashbucklerLegginsCraft",
+      "type": "recipe",
+      "sortid": 555,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "swashbuckler_leggins_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "SwashbucklerBootsCraft",
+      "type": "recipe",
+      "sortid": 556,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "swashbuckler_boots_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "KnightCrossbowRangedItemUsed",
+      "type": "procedure",
+      "sortid": 557,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "knight_crossbow_ranged_item_used",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "SmallBottle",
+      "type": "item",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "small_bottle",
+      "path": "~/Items"
+    },
+    {
+      "name": "MediumArmorOilFoodEaten",
+      "type": "procedure",
+      "sortid": 558,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "medium_armor_oil_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "MediumArmorOil",
+      "type": "food",
+      "sortid": 254,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "medium_armor_oil",
+      "path": "~/Magic Items"
+    },
+    {
+      "name": "SmallHealthPotionFoodEaten",
+      "type": "procedure",
+      "sortid": 559,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "small_health_potion_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "SmallHealthPotion",
+      "type": "food",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "small_health_potion",
+      "path": "~/Magic Items"
+    },
+    {
+      "name": "MediumBottle",
+      "type": "item",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "medium_bottle",
+      "path": "~/Items"
+    },
+    {
+      "name": "MediumStaminaVial",
+      "type": "food",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "medium_stamina_vial",
+      "path": "~/Magic Items"
+    },
+    {
+      "name": "MediumHealthPotionFoodEaten",
+      "type": "procedure",
+      "sortid": 560,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "medium_health_potion_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "MediumHealthPotion",
+      "type": "food",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "medium_health_potion",
+      "path": "~/Magic Items"
+    },
+    {
+      "name": "MediumStaminaVialFoodEaten",
+      "type": "procedure",
+      "sortid": 561,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "medium_stamina_vial_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "WeakenArmor",
+      "type": "gun",
+      "sortid": 258,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {
+        "0": 23
+      },
+      "registry_name": "weaken_armor",
+      "path": "~/Magic Items"
+    },
+    {
+      "name": "WeakenArmorRangedItemUsed",
+      "type": "procedure",
+      "sortid": 562,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "weaken_armor_ranged_item_used",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "WeakenArmorBulletHitsBlock",
+      "type": "procedure",
+      "sortid": 563,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "weaken_armor_bullet_hits_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "WeakenArmorBulletHitsLivingEntity",
+      "type": "procedure",
+      "sortid": 564,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "weaken_armor_bullet_hits_living_entity",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "LargeBottle",
+      "type": "item",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "large_bottle",
+      "path": "~/Items"
+    },
+    {
+      "name": "MaximumStaminaVialFoodEaten",
+      "type": "procedure",
+      "sortid": 565,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "maximum_stamina_vial_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "MaximumStaminaVial",
+      "type": "food",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "maximum_stamina_vial",
+      "path": "~/Magic Items"
+    },
+    {
+      "name": "LargeHealthPotionFoodEaten",
+      "type": "procedure",
+      "sortid": 566,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "large_health_potion_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "LargeHealthPotion",
+      "type": "food",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "large_health_potion",
+      "path": "~/Magic Items"
+    },
+    {
+      "name": "SmallBottleCraft",
+      "type": "recipe",
+      "sortid": 567,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "small_bottle_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "MediumBottleCraft",
+      "type": "recipe",
+      "sortid": 568,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "medium_bottle_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "LargeBottleCraft",
+      "type": "recipe",
+      "sortid": 569,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "large_bottle_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "MediumArmorOilCraft",
+      "type": "recipe",
+      "sortid": 570,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "medium_armor_oil_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "SmallHealthCraft",
+      "type": "recipe",
+      "sortid": 571,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "small_health_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "MediumHealthCraft",
+      "type": "recipe",
+      "sortid": 572,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "medium_health_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "LargeHealthPotionCraft",
+      "type": "recipe",
+      "sortid": 573,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "large_health_potion_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Staminavialmediumcraft",
+      "type": "recipe",
+      "sortid": 574,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "staminavialmediumcraft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Maxstaminavialcraft",
+      "type": "recipe",
+      "sortid": 575,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "maxstaminavialcraft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "WeakenArmorCraft",
+      "type": "recipe",
+      "sortid": 576,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "weaken_armor_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Crystaalstairscraft",
+      "type": "recipe",
+      "sortid": 577,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystaalstairscraft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Crystalslabcraft",
+      "type": "recipe",
+      "sortid": 578,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystalslabcraft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Ledgecraft",
+      "type": "recipe",
+      "sortid": 579,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ledgecraft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Ledgecornercraft",
+      "type": "recipe",
+      "sortid": 580,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ledgecornercraft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "MaximumBottle",
+      "type": "item",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "maximum_bottle",
+      "path": "~/Items"
+    },
+    {
+      "name": "MaximumArmorOilFoodEaten",
+      "type": "procedure",
+      "sortid": 581,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "maximum_armor_oil_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "MaximumArmorOil",
+      "type": "food",
+      "sortid": 255,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "maximum_armor_oil",
+      "path": "~/Magic Items"
+    },
+    {
+      "name": "MaximumHealthPotionFoodEaten",
+      "type": "procedure",
+      "sortid": 582,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "maximum_health_potion_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "MaximumHealthPotion",
+      "type": "food",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "maximum_health_potion",
+      "path": "~/Magic Items"
+    },
+    {
+      "name": "Ledgecraft2",
+      "type": "recipe",
+      "sortid": 583,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ledgecraft_2",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Gale",
+      "type": "gun",
+      "sortid": 256,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {
+        "0": 24
+      },
+      "registry_name": "gale",
+      "path": "~/Magic Items"
+    },
+    {
+      "name": "GaleBulletHitsBlock",
+      "type": "procedure",
+      "sortid": 584,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gale_bullet_hits_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "GaleRangedItemUsed",
+      "type": "procedure",
+      "sortid": 585,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gale_ranged_item_used",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "ReaperScytheRightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 586,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reaper_scythe_right_clicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "GaleCraft",
+      "type": "recipe",
+      "sortid": 587,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gale_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "AutomatonComposite",
+      "type": "item",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "automaton_composite",
+      "path": "~/Items"
+    },
+    {
+      "name": "AutomatonCompositeCraft",
+      "type": "recipe",
+      "sortid": 588,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "automaton_composite_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "AutomatonChestCraft",
+      "type": "recipe",
+      "sortid": 589,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "automaton_chest_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BlockOfAncientGem",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_of_ancient_gem",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "BlockAncientCraft",
+      "type": "recipe",
+      "sortid": 590,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_ancient_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "BlockOfAutomatonComposite",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_of_automaton_composite",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "AutomatonBlockCraft",
+      "type": "recipe",
+      "sortid": 591,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "automaton_block_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "AutomatonBoot",
+      "type": "item",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "automaton_boot",
+      "path": "~/Parts"
+    },
+    {
+      "name": "AutomatonLegginsCraft",
+      "type": "recipe",
+      "sortid": 592,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "automaton_leggins_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "AutomatonBootCraft",
+      "type": "recipe",
+      "sortid": 593,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "automaton_boot_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "AutomatonBootsCraft",
+      "type": "recipe",
+      "sortid": 594,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "automaton_boots_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "KoksCraft",
+      "type": "recipe",
+      "sortid": 595,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "koks_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "MaximumOilCraft",
+      "type": "recipe",
+      "sortid": 596,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "maximum_oil_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "MaxHealtPotionCraft",
+      "type": "recipe",
+      "sortid": 597,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "max_healt_potion_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "AncientDrill",
+      "type": "tool",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_drill",
+      "path": "~/Items"
+    },
+    {
+      "name": "DiamondDrill",
+      "type": "tool",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_drill",
+      "path": "~/Items"
+    },
+    {
+      "name": "DiamondDrillHead",
+      "type": "item",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_drill_head",
+      "path": "~/Items"
+    },
+    {
+      "name": "AncientDrillBlockDestroyedWithTool",
+      "type": "procedure",
+      "sortid": 598,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_drill_block_destroyed_with_tool",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "DiamondDrillBlockDestroyedWithTool",
+      "type": "procedure",
+      "sortid": 599,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_drill_block_destroyed_with_tool",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "DiamondGrinderHead",
+      "type": "item",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_grinder_head",
+      "path": "~/Items"
+    },
+    {
+      "name": "DiamondGrinderBlockDestroyedWithTool",
+      "type": "procedure",
+      "sortid": 600,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_grinder_block_destroyed_with_tool",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "DiamondGrinder",
+      "type": "tool",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_grinder",
+      "path": "~/Items"
+    },
+    {
+      "name": "DiamondGrinderLivingEntityIsHitWithTool",
+      "type": "procedure",
+      "sortid": 601,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_grinder_living_entity_is_hit_with_tool",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "DiamondGrinderHeadCraft",
+      "type": "recipe",
+      "sortid": 602,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_grinder_head_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "DiamondGrinderCraft",
+      "type": "recipe",
+      "sortid": 603,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_grinder_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Colossus",
+      "type": "item",
+      "sortid": 604,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "colossus",
+      "path": "~/Magic Items"
+    },
+    {
+      "name": "ColossusRightClickedInAir",
+      "type": "procedure",
+      "sortid": 605,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "colossus_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "ColossusEffectOnPotionActiveTick",
+      "type": "procedure",
+      "sortid": 606,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "colossus_effect_on_potion_active_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "ColossusEffect",
+      "type": "potion",
+      "sortid": 607,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "colossus_effect",
+      "path": "~/Potions"
+    },
+    {
+      "name": "ColossusEffectPotionStartedapplied",
+      "type": "procedure",
+      "sortid": 608,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "colossus_effect_potion_startedapplied",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "AncientGemSupremeCraft",
+      "type": "recipe",
+      "sortid": 609,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_gem_supreme_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Autodecraft",
+      "type": "recipe",
+      "sortid": 610,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "autodecraft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Conquererdecraft",
+      "type": "recipe",
+      "sortid": 611,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "conquererdecraft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "MaximumBottleCraft",
+      "type": "recipe",
+      "sortid": 612,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "maximum_bottle_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "MarbleSlabCrafting",
+      "type": "recipe",
+      "sortid": 613,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "marble_slab_crafting",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "MarbleStairsCraft",
+      "type": "recipe",
+      "sortid": 614,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "marble_stairs_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "PolishedCrystalSlab",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_crystal_slab",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "PolishedCrystalStairs",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_crystal_stairs",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "Polisgedcrystalstairscraft",
+      "type": "recipe",
+      "sortid": 615,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polisgedcrystalstairscraft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "Polishedcrystalslabcraft",
+      "type": "recipe",
+      "sortid": 616,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polishedcrystalslabcraft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "CrusaderArmor",
+      "type": "armor",
+      "sortid": 236,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "crusader_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Armor"
+    },
+    {
+      "name": "RetariusArmor",
+      "type": "armor",
+      "sortid": 237,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "retarius_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Armor"
+    },
+    {
+      "name": "ConquererBoot",
+      "type": "item",
+      "sortid": 617,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "conquerer_boot",
+      "path": "~/Parts"
+    },
+    {
+      "name": "RetariusBoot",
+      "type": "item",
+      "sortid": 618,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "retarius_boot",
+      "path": "~/Parts"
+    },
+    {
+      "name": "CrusaderBoot",
+      "type": "item",
+      "sortid": 619,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crusader_boot",
+      "path": "~/Parts"
+    },
+    {
+      "name": "ConquererBootCraft",
+      "type": "recipe",
+      "sortid": 620,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "conquerer_boot_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "CrusaderBootsCraft",
+      "type": "recipe",
+      "sortid": 621,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crusader_boots_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "CrusaderBootCraft",
+      "type": "recipe",
+      "sortid": 622,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crusader_boot_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "CrusaderChestplateCraft",
+      "type": "recipe",
+      "sortid": 623,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crusader_chestplate_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "CrusaderLegginsCraft",
+      "type": "recipe",
+      "sortid": 624,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crusader_leggins_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "CrusaderHelmetCraft",
+      "type": "recipe",
+      "sortid": 625,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crusader_helmet_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "RetariusBootCraft",
+      "type": "recipe",
+      "sortid": 626,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "retarius_boot_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "RetariusBootsCraft",
+      "type": "recipe",
+      "sortid": 627,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "retarius_boots_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "RetariusLegginsCraft",
+      "type": "recipe",
+      "sortid": 628,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "retarius_leggins_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "ReatriusChestplateCraft",
+      "type": "recipe",
+      "sortid": 629,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reatrius_chestplate_craft",
+      "path": "~/Crafting"
+    },
+    {
+      "name": "RetariusHelmetcraft",
+      "type": "recipe",
+      "sortid": 630,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "retarius_helmetcraft",
+      "path": "~/Crafting"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "arenachampionvoice",
+      "files": [
+        "beholdarenachampionmusic"
+      ],
+      "category": "master",
+      "subtitle": "BeholdArenaChampion"
+    },
+    {
+      "name": "soundtrack1",
+      "files": [
+        "swordsandsandalsoundtrack1"
+      ],
+      "category": "music",
+      "subtitle": "Soundtrack1"
+    },
+    {
+      "name": "bossdefeat",
+      "files": [
+        "bossdefeat"
+      ],
+      "category": "ambient",
+      "subtitle": "BossSlayed"
+    },
+    {
+      "name": "antareshurtvoice",
+      "files": [
+        "emperorantareshurt"
+      ],
+      "category": "ambient",
+      "subtitle": "AntaresHurt"
+    },
+    {
+      "name": "playerdeath",
+      "files": [
+        "playerdeath"
+      ],
+      "category": "player",
+      "subtitle": "PlayerDeath"
+    },
+    {
+      "name": "gladiatorwalksound",
+      "files": [
+        "sasdzwiekchodzenia"
+      ],
+      "category": "ambient",
+      "subtitle": "DŸwiêkChodzenia"
+    },
+    {
+      "name": "fireball",
+      "files": [
+        "sasvoice4_fireball_"
+      ],
+      "category": "ambient",
+      "subtitle": "Burning"
+    },
+    {
+      "name": "antaresdeath",
+      "files": [
+        "antaresdeath"
+      ],
+      "category": "ambient",
+      "subtitle": "AntaresDeath"
+    },
+    {
+      "name": "rejuvinate",
+      "files": [
+        "rejuvinatesound"
+      ],
+      "category": "master",
+      "subtitle": "rejuvinate"
+    },
+    {
+      "name": "strzalzkuszy",
+      "files": [
+        "strzalzkuszy"
+      ],
+      "category": "master",
+      "subtitle": "strzalwkolano"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.blacksteelbattleaxestick.name": "Blacksteel Battleaxe Stick",
+      "item.molten_dead.name": "Molten Death",
+      "item.retarius_armorlegs.name": "Retarius Leggings",
+      "item.medium_bottle.name": "Medium Bottle",
+      "item.peasant_armorbody.name": "Peasant Chestplate",
+      "potion.effect.colossus_effect": "Colossus",
+      "item.sledge_hammer_blade_part.name": "Sledge Hammer Head",
+      "tile.polished_crystal_slab.name": "Polished Crystal Slab",
+      "item.brigand_armourboots.name": "Brigand Boots",
+      "subtitles.antareshurtvoice": "AntaresHurt",
+      "item.bhaargles_armorlegs.name": "Bhaargles Armor Leggings",
+      "item.cutpurse_armorlegs.name": "Cutpurse Leggins",
+      "itemGroup.tabswordsandsandalsitems": "S\u0026S Items",
+      "item.irongreataxe.name": "Iron Greataxe",
+      "item.medium_stamina_vial.name": "Medium Stamina Vial",
+      "tile.nether_ancient_gem_ore.name": "Ancient Gem Ore",
+      "item.kensaispiritbladepart2.name": "Kensai Spirit Blade Part2",
+      "item.longswordblade.name": "Longsword Blade",
+      "item.bronzeaxe.name": "Bronze Axe",
+      "subtitles.gladiatorwalksound": "DŸwiêkChodzenia",
+      "item.wooden_club.name": "Wooden Club",
+      "item.champion_armorboots.name": "Champion Boots",
+      "item.hunterspear.name": "Hunter Spear",
+      "item.ramheadsickleblade.name": "Ramhead Sickle Blade",
+      "tile.rubinore.name": "Ruby Ore",
+      "item.peasent_armorbody.name": "Peasant Chestplate",
+      "item.conquerer_armorhelmet.name": "Conquerer Helmet",
+      "subtitles.playerdeath": "PlayerDeath",
+      "item.saphire.name": "Sapphire",
+      "item.greataxestick.name": "Greataxe Stick",
+      "tile.methyst_pillar_top.name": "Amethyst Pillar Top",
+      "item.madmanscleaverstick.name": "Madman\u0027s Cleaver Stick",
+      "item.emperorsarmorlegs.name": "Emperors Leggins",
+      "item.greensteelaxestick.name": "Greensteel Axe Stick",
+      "item.studded_mace_stick.name": "Studded Mace Handle",
+      "item.broadsword.name": "Broadsword",
+      "tile.blockofcrystal.name": "Block of Mountain Crystal",
+      "item.ogrebattleaxe.name": "Ogre Battleaxe",
+      "potion.effect.rejuvinate_potion": "Rejuvinate Potion",
+      "item.knuckle_duster.name": "Knuckle Duster",
+      "item.bhaargles_collar.name": "Bhaargles Collar",
+      "tile.carbinblock.name": "Block of Aetherite",
+      "item.warrioraxe.name": "Warrior Axe",
+      "tile.blockofbronze.name": "Block of Bronze",
+      "item.dual_maul_blade.name": "Dual Maul Head",
+      "item.ramheadsickle.name": "Ramhead Sickle",
+      "item.polishedobsidianingot.name": "Polished Obsidian Ingot",
+      "item.berserkeraxe.name": "Berserker Axe",
+      "item.daikatanahandle.name": "Daikatana Handle",
+      "effect.colossus_effect": "Colossus",
+      "itemGroup.tabswordsandsandalsarmors": "Swords And Sandals Armors",
+      "item.emperorsarmorhelmet.name": "Helm Of Ages",
+      "item.peasant_armorboots.name": "Peasant Armor Boots",
+      "tile.block_of_marble.name": "Emperor\u0027s Marble Block",
+      "item.bhaargles_armorboots.name": "Bhaargles Armor Boots",
+      "item.irongreataxestick.name": "Iron Greataxe Stick",
+      "tile.amethystore.name": "Amethyst Ore",
+      "item.brigand_armourbody.name": "Brigand Chestplate",
+      "item.poleaxe.name": "Poleaxe",
+      "item.spiked_mace_head.name": "Spiked Mace Head",
+      "item.heavy_mallet.name": "Heavy Mallet",
+      "item.champion_composite.name": "Champion Composite",
+      "item.crystalswordhandle.name": "Crystal Sword Handle",
+      "item.claymorehandle.name": "Claymore Handle",
+      "item.frightning_bolt.name": "Frightning Bolt",
+      "item.cutlas.name": "Cutlas",
+      "item.ancesorkatanabladepart2.name": "Ancesor Katana Blade Part2",
+      "item.militia_armorboots.name": "Militia Boots",
+      "item.militia_boot.name": "Militia Boot (Single)",
+      "item.colossus.name": "Colossus",
+      "item.amethyst.name": "Amethyst",
+      "item.quake_staff_stick.name": "Quake Staff Stick",
+      "item.peasant_armorhelmet.name": "Peasant Armor Helmet",
+      "item.veteran_armorhelmet.name": "Veteran Helmet",
+      "item.steelbattleaxestick.name": "Steel Battleaxe Stick",
+      "subtitles.arenachampionvoice": "BeholdArenaChampion",
+      "tile.saphireore.name": "Sapphire Ore",
+      "item.scimitarhandle.name": "Scimitar Handle",
+      "item.swashbuckler_armorhelmet.name": "Swashbuckler Helmet",
+      "item.diamond_drill_head.name": "Diamond Drill Head",
+      "item.daikatanabladepart2.name": "Daikatana Blade Part2",
+      "item.rajscimitarblade.name": "Raj Scimitar Blade",
+      "item.conquerer_armorbody.name": "Conquerer Chestplate",
+      "item.hoplite_boot.name": "Hoplite Boot",
+      "item.poleaxeblade.name": "Poleaxe Blade",
+      "item.veteran_armorbody.name": "Veteran Chestplate",
+      "item.steelbattleaxe.name": "Steel Battleaxe",
+      "item.greataxe.name": "Greataxe",
+      "item.spiked_mace_handle.name": "Spiked Mace Handle",
+      "potion.effect.regenerate": "Regenerate",
+      "tile.bronzeore.name": "Bronze Ore",
+      "item.halberdstick.name": "Halberd Stick",
+      "item.bhaargles_armorhelmet.name": "Bhaargle\u0027s Helmet",
+      "item.studded_mace_bladepart.name": "Studded Mace Head",
+      "item.quake_staff.name": "Quake Staff",
+      "tile.carbinore.name": "Aetherite Ore",
+      "tile.ancient_gem_ore.name": "Ancient Gem Ore",
+      "item.hoplite_armorhelmet.name": "Hoplite Armor Helmet",
+      "effect.boundless_energy_2": "Boundless Energy",
+      "item.veteran_armorlegs.name": "Veteran Leggings",
+      "item.spiked_maul.name": "Spiked Maul",
+      "item.militia_armorbody.name": "Militia Chestplate",
+      "item.sledge_hammer_stick.name": "Sledge Hammer Handle",
+      "item.maul_sick.name": "Maul Handle",
+      "item.greensteelaxe.name": "Greensteel Axe",
+      "item.awlpikestick.name": "Awl Pike Stick",
+      "subtitles.strzalzkuszy": "strzalwkolano",
+      "item.steel_mace_handle.name": "Steel Mace Handle",
+      "item.crystal.name": "Mountain Crystal",
+      "item.poleaxestick.name": "Poleaxe Stick",
+      "item.spiked_maul_blade_part.name": "Spiked Maul Head",
+      "item.automaton_armorbody.name": "Automaton Chestplate",
+      "tile.whie_ledge.name": "White Ledge",
+      "item.hoplite_armorbody.name": "Hoplite Armor Chestplate",
+      "item.impureemerald.name": "Malachite",
+      "tile.blockofsaphire.name": "Block of Sapphire",
+      "item.champion_armorhelmet.name": "Champion Helmet",
+      "subtitles.die": "Deathvoice2",
+      "item.sledge_hammer.name": "Sledge Hammer",
+      "tile.block_of_polished_crystal_2stairs.name": "Purple Polished Crystal Stairs",
+      "item.silverlongswordhandle.name": "Silver Longsword Handle",
+      "item.warhammer_handle.name": "Warhammer Handle",
+      "item.bladeoftheempire.name": "Blade Of The Empire",
+      "tile.block_of_automaton_composite.name": "Block of Automaton Composite",
+      "item.pilumblade.name": "Pilum Blade",
+      "itemGroup.tabmagic_items": "Magic Items",
+      "lingering_potion.effect.rejuvinate_potion": "Lingering Rejuvinate Potion",
+      "tile.block_of_polished_crystal.name": "Polished Crystal Block",
+      "tile.emperors_throne.name": "Emperor\u0027s Throne",
+      "item.maximum_armor_oil.name": "Maximum Armor Oil",
+      "item.reaperscythe.name": "Reaper Scythe",
+      "item.pilumstick.name": "Pilum Stick",
+      "item.steel_mace_head.name": "Steel Mace Head",
+      "item.carbin.name": "Aetherite",
+      "subtitles.fireball": "Burning",
+      "item.reaperscytheblade.name": "Reaper Scythe Blade",
+      "item.heavy_mallet_blade_part.name": "Heavy Mallet Head",
+      "item.dagger.name": "Dagger",
+      "item.claw_hammer.name": "Claw Hammer",
+      "item.crystalswordblade.name": "Crystal Sword Blade",
+      "item.peasent_armorboots.name": "Peasant Boots",
+      "item.rejuvinate.name": "Rejuvinate",
+      "item.small_health_potion.name": "Small Health Potion",
+      "item.berserkeraxestick.name": "Berserker Axe Stick",
+      "item.ancesorkatanahandle.name": "Ancesor Katana Handle",
+      "item.reaperscythestick.name": "Reaper Scythe Stick",
+      "item.madmanscleaverblade.name": "Madman\u0027s Cleaver Blade",
+      "tile.impure_emerald_ore.name": "Malachite Ore",
+      "item.small_bottle.name": "Small Bottle",
+      "item.knightswordhandle.name": "Knightswordhandle",
+      "item.veteran_armorboots.name": "Veteran Boots",
+      "item.crusader_armorhelmet.name": "Crusader Helmet",
+      "item.ogrebattleaxeblade.name": "Ogre Battleaxe Blade",
+      "item.steel_mace.name": "Steel Mace",
+      "item.silverlongsword.name": "Silver Longsword",
+      "item.halberd.name": "Halberd",
+      "item.militia_armorhelmet.name": "Militia Helmet",
+      "item.bonecrusher_cudgel_blade_part.name": "Bonecrusher Cudgel Head",
+      "tile.crystalore.name": "Mountain Crystal Ore",
+      "item.iron_mace_handle.name": "Iron Mace Handle",
+      "item.maul.name": "Maul",
+      "item.ogrebattleaxestick.name": "Ogre Battleaxe Stick",
+      "item.katanahandle.name": "Katana Handle",
+      "item.rajscimitarhandle.name": "Raj Scimitar Handle",
+      "subtitles.antaresdeath": "AntaresDeath",
+      "item.rapier.name": "Rapier",
+      "item.gladiushandle.name": "Gladius Handle",
+      "item.automaton_composite.name": "Automaton Composite",
+      "item.hoplite_armorlegs.name": "Hoplite Armor Leggings",
+      "item.champion_chestplate_part.name": "Champion Chestplate Part",
+      "tile.blockofamethyst.name": "Block of Amethyst",
+      "item.rapierblade.name": "Rapier Blade",
+      "item.bastardsword.name": "Bastardsword",
+      "item.pilum.name": "Pilum",
+      "item.berserkeraxeblade.name": "Berserker Axe Blade",
+      "item.hatchet.name": "Hatchet",
+      "item.rajscimitar.name": "Raj Scimitar",
+      "item.katanabladepart1.name": "Katana Blade Part1",
+      "item.conquerer_armorboots.name": "Conquerer Boots",
+      "item.peasant_armorlegs.name": "Peasant Armor Leggings",
+      "item.conquerer_composite.name": "Conquerer Composite",
+      "subtitles.rejuvinate": "rejuvinate",
+      "item.cutlashandle.name": "Cutlas Handle",
+      "tile.block_of_ancient_gem.name": "Block of Ancient Gem",
+      "item.retarius_armorhelmet.name": "Retarius Helmet",
+      "item.emperorsarmorbody.name": "Emperors Chestplate",
+      "item.longsword.name": "Longsword",
+      "item.heartbladeblade.name": "Heartblade Blade",
+      "tipped_arrow.effect.rejuvinate_potion": "Arrow of Rejuvinate Potion",
+      "item.cutpurse_armorbody.name": "Cutpurse Chestplate",
+      "item.boundless_energy_1.name": "Boundless Energy",
+      "item.dirk.name": "Dirk",
+      "item.spiked_maul_stick.name": "Spiked Maul Handle",
+      "entity.bhaargle_yarg.name": "Bhaargle Yarg",
+      "item.steelbattleaxeblade.name": "Steel Battleaxe Blade",
+      "item.imperial_warhammer_stick.name": "Imperial Warhammer Handle",
+      "item.bronzeingot.name": "Bronze Ingot",
+      "entity.molten_rock.name": "Molten Rock",
+      "item.hammer.name": "Hammer",
+      "item.retarius_armorbody.name": "Retarius Chestplate",
+      "item.knightsordblade.name": "Knightsword Blade",
+      "item.bhaargles_armorbody.name": "Bhaargle\u0027s Chestplate",
+      "lingering_potion.effect.regenerate": "Lingering Regenerate",
+      "lingering_potion.effect.colossus_effect": "Lingering Colossus",
+      "item.automaton_boot.name": "Automaton Boot",
+      "item.maximum_health_potion.name": "Maximum Health Potion",
+      "item.medium_armor_oil.name": "Medium Armor Oil",
+      "item.maximum_stamina_vial.name": "Maximum Stamina Vial",
+      "item.morning_star.name": "Morning Star",
+      "item.madmanscleaver.name": "Madman\u0027s Cleaver",
+      "item.conquerer_armorlegs.name": "Conquerer Leggins",
+      "item.conquerer_boot.name": "Conquerer Boot",
+      "item.cutpurse_armorboots.name": "Cutpurse Boots",
+      "item.greensteelaxeblade.name": "Greensteel Axe Blade",
+      "item.kensaispirithandle.name": "Kensai Spirit Handle",
+      "item.crystalsword.name": "Crystal Sword",
+      "item.crusader_boot.name": "Crusader Boot",
+      "item.large_health_potion.name": "Large Health Potion",
+      "item.warhammer.name": "Warhammer",
+      "tile.block_of_champion_composite.name": "Block of Champion Composite",
+      "item.knight_crossbow.name": "Knight Crossbow",
+      "item.ancesorkatana.name": "Ancestor Katana",
+      "itemGroup.tabswordsandsandalsblocks": "S\u0026S Blocks",
+      "lingering_potion.effect.boundless_energy_2": "Lingering Boundless Energy",
+      "tile.blockofrubin.name": "Block of Ruby",
+      "potion.effect.boundless_energy_2": "Boundless Energy",
+      "item.shortsword.name": "Shortsword",
+      "item.claw_hammer_blade_part.name": "Claw Hammer Head",
+      "item.kensaispiritbladepart1.name": "Kensai Spirit Blade Part1",
+      "item.bastardswordblade.name": "Bastardsword Blade",
+      "item.automaton_armorhelmet.name": "Automaton Helmet",
+      "item.drill_base.name": "Drill Base",
+      "item.bastardswordhandle.name": "Bastardsword Handle",
+      "item.katanabladepart2.name": "Katana Blade Part2",
+      "item.diamond_drill.name": "Diamond Drill",
+      "item.brigand_armourhelmet.name": "Brigand Helmet",
+      "item.claymore.name": "Claymore",
+      "item.claw_hammer_stick.name": "Claw Hammer Handle",
+      "item.knightsword.name": "Knightsword",
+      "item.awlpikeblade.name": "Awl Pike Blade",
+      "item.swords_and_sandals_ii.name": "Swords And Sandals II Disc",
+      "item.medium_health_potion.name": "Medium Health Potion",
+      "item.record.swords_and_sandals_ii.desc": "SwordsAndSandalsOfficialSoundtrack",
+      "effect.rejuvinate_potion": "Rejuvinate Potion",
+      "item.halberdspike.name": "Halberd Spike",
+      "item.veteran_boot.name": "Veteran Boot (Single)",
+      "tipped_arrow.effect.boundless_energy_2": "Arrow of Boundless Energy",
+      "item.emperorsarmorboots.name": "Emperors Boots",
+      "item.blacksteelbattleaxeblade.name": "Blacksteel Battleaxe Blade",
+      "item.diamond_plume.name": "Diamond Plume",
+      "item.dual_maul.name": "Dual Maul",
+      "item.handaxe.name": "Hand Axe",
+      "item.warhammer_head.name": "Warhammer Head",
+      "item.ancient_drill_head.name": "Ancient Drill Head",
+      "item.heartbladehandle.name": "Heartblade Handle",
+      "item.spiked_mace.name": "Spiked Mace",
+      "item.large_bottle.name": "Large Bottle",
+      "item.gladius.name": "Gladius",
+      "item.scimitarblade.name": "Scimitar Blade",
+      "item.silverlongswordblade.name": "Silver Longsword Blade",
+      "item.irongreataxeblade.name": "Iron Greataxe Blade",
+      "item.automaton_armorboots.name": "Automaton Boots",
+      "item.diamond_grinder.name": "Diamond Grinder",
+      "itemGroup.tabswordsandsandalsweapons": "S\u0026S Weapons",
+      "item.blackjack.name": "Blackjack",
+      "item.dual_maul_stick.name": "Dual Maul Handle",
+      "item.heavy_mallet_stick.name": "Heavy Mallet Handle",
+      "item.peasent_armorhelmet.name": "Peasant Helmet",
+      "item.rapierhandle.name": "Rapier Handle",
+      "item.morning_star_blade.name": "Morning Star Head",
+      "item.diamond_grinder_head.name": "Diamond Grinder Head",
+      "item.longswordhandle.name": "Longsword Handle",
+      "subtitles.voice3": "Die",
+      "item.heartblade.name": "Heartblade",
+      "subtitles.voice4": "Fireball",
+      "item.swashbuckler_armorboots.name": "Swashbuckler Boots",
+      "item.katana.name": "Katana",
+      "item.crusader_armorbody.name": "Crusader Chestplate",
+      "item.bonecrusher_cudgel_handle.name": "Bonecrusher Cudgel Handle",
+      "subtitles.voice1": "Music1",
+      "subtitles.voice2": "Gladiator",
+      "subtitles.soundtrack1": "Soundtrack1",
+      "tile.block_of_polished_crystal_2.name": "Purple Polished Crystal Block",
+      "tile.block_of_marble_slab.name": "Emperor\u0027s Marble Slab",
+      "item.swashbuckler_armorbody.name": "Swashbuckler Chestplate",
+      "item.crusader_armorlegs.name": "Crusader Leggings",
+      "item.quake_staff_blade.name": "Quake Staff Head",
+      "item.cutpurse_armorhelmet.name": "Cutpurse Helmet",
+      "item.conquerer_helmet_part.name": "Conquerer Helmet Part",
+      "splash_potion.effect.colossus_effect": "Splash Colossus",
+      "item.wicks_staff.name": "Wicks Staff",
+      "item.retarius_armorboots.name": "Retarius Boots",
+      "item.automaton_armorlegs.name": "Automaton Leggings",
+      "item.crusader_armorboots.name": "Crusader Boots",
+      "item.bonecrusher_cudgel.name": "Bonecrusher Cudgel",
+      "item.militia_armorlegs.name": "Militia Leggings",
+      "item.morning_star_stick.name": "Morning Star Handle",
+      "item.blacksteelbattleaxe.name": "Blacksteel Battleaxe",
+      "tile.block_of_conqerer_composite.name": "Block of Conquerer Composite",
+      "item.imperial_warhammer.name": "Imperial Warhammer",
+      "item.gladiusblade.name": "Gladius Blade",
+      "item.daikatanabladepart1.name": "Daikatana Blade Part1",
+      "item.lightning_bolt.name": "Lightning Bolt",
+      "item.greataxeblade.name": "Greataxe Blade",
+      "splash_potion.effect.boundless_energy_2": "Splash Boundless Energy",
+      "item.ancient_drill.name": "Ancient Drill",
+      "tile.white_ledge_corner.name": "White Ledge Corner",
+      "item.swashbuckler_armorlegs.name": "Swashbuckler Leggings",
+      "item.ancesorkatanabladepart1.name": "Ancesor Katana Blade Part1",
+      "item.ramheadsicklestick.name": "Ramhead Sickle Stick",
+      "item.gale.name": "Gale",
+      "item.broadswordblade.name": "Broadsword Blade",
+      "item.ancient_gem_3.name": "Ancient Gem",
+      "item.brigand_armourlegs.name": "Brigand Leggings",
+      "item.hoplite_armorboots.name": "Hoplite Armor Boots",
+      "entity.emperor_antares.name": "Emperor Antares",
+      "tile.block_of_polished_purple_crystal_stairs.name": "Purple Polished Crystal Slab",
+      "item.ancient_gem.name": "Ancient Gem",
+      "splash_potion.effect.rejuvinate_potion": "Splash Rejuvinate Potion",
+      "tipped_arrow.effect.regenerate": "Arrow of Regenerate",
+      "item.maximum_bottle.name": "Maximum Bottle",
+      "item.hunterspearspike.name": "Hunter Spear Spike",
+      "tile.polished_crystal_stairs.name": "Polished Crystal Stairs",
+      "effect.regenerate": "Regenerate",
+      "item.awlpike.name": "Awl Pike",
+      "splash_potion.effect.regenerate": "Splash Regenerate",
+      "tile.block_of_impure_emerald.name": "Block of Malachite",
+      "item.champion_armorlegs.name": "Champion Leggins",
+      "item.scimitar.name": "Scimitar",
+      "item.weaken_armor.name": "Weaken Armor",
+      "item.claymoreblade.name": "Claymore Blade",
+      "item.ancient_gem_2.name": "Ancient Gem",
+      "tile.amethyst_pillar.name": "Amethyst Pillar Base",
+      "item.maul_blade_part.name": "Maul Head",
+      "itemGroup.tabswordsandsandalsparts": "S\u0026S Parts",
+      "item.peasent_armorlegs.name": "Peasant Leggings",
+      "item.champion_armorbody.name": "Champion Chestplate",
+      "subtitles.bossdefeat": "BossSlayed",
+      "item.rubin.name": "Ruby",
+      "item.regenerate_1.name": "Regenerate",
+      "item.kensaispirit.name": "Kensai Spirit",
+      "item.daikatana.name": "Daikatana",
+      "tile.block_of_marble_stairs.name": " Emperor\u0027s Marble Stairs",
+      "tipped_arrow.effect.colossus_effect": "Arrow of Colossus",
+      "item.hunterspearstick.name": "Hunter Spear Stick",
+      "item.retarius_boot.name": "Retarius Boot",
+      "item.mperial_warhammer_blade_part.name": "Imperial Warhammer Head",
+      "item.champion_boot.name": "Champion Boot (Single)",
+      "item.studded_mace.name": "Studded Mace",
+      "item.cutlasblade.name": "Cutlas Blade",
+      "item.broadswordhandle.name": "Broadsword Handle",
+      "item.iron_mace.name": "Iron Mace",
+      "item.iron_mace_head.name": "Iron Mace Head",
+      "item.ramantlers.name": "Ram Antlers",
+      "item.cleaver.name": "Cleaver"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Armor",
+        "children": []
+      },
+      {
+        "name": "Ores",
+        "children": []
+      },
+      {
+        "name": "Blocks",
+        "children": []
+      },
+      {
+        "name": "Items",
+        "children": []
+      },
+      {
+        "name": "CreativeTabs",
+        "children": []
+      },
+      {
+        "name": "Parts",
+        "children": []
+      },
+      {
+        "name": "Procedures",
+        "children": []
+      },
+      {
+        "name": "Crafting",
+        "children": []
+      },
+      {
+        "name": "Smelting",
+        "children": []
+      },
+      {
+        "name": "Weapons",
+        "children": []
+      },
+      {
+        "name": "Gladiators",
+        "children": []
+      },
+      {
+        "name": "Magic Items",
+        "children": []
+      },
+      {
+        "name": "Potions",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "swordsandsandals",
+    "modName": "Swords And Sandals II",
+    "version": "1.2.42",
+    "description": "Things from Swords And Sandals II in Minecraft",
+    "author": "HUHACZEK",
+    "websiteURL": "https://mcreator.net",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.swordsandsandals",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

@@ -1,0 +1,42 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:impureemerald"
+    },
+    "1": {
+      "item": "swordsandsandals:impureemerald"
+    },
+    "2": {
+      "item": "swordsandsandals:impureemerald"
+    },
+    "3": {
+      "item": "swordsandsandals:impureemerald"
+    },
+    "4": {
+      "item": "swordsandsandals:impureemerald"
+    },
+    "5": {
+      "item": "swordsandsandals:impureemerald"
+    },
+    "6": {
+      "item": "swordsandsandals:impureemerald"
+    },
+    "7": {
+      "item": "swordsandsandals:impureemerald"
+    },
+    "8": {
+      "item": "swordsandsandals:impureemerald"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:block_of_impure_emerald",
+    "count": 1
+  }
+}

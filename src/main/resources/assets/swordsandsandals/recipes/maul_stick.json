@@ -1,0 +1,33 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_block"
+    },
+    "1": {
+      "item": "swordsandsandals:carbin"
+    },
+    "2": {
+      "item": "minecraft:iron_block"
+    },
+    "3": {
+      "item": "swordsandsandals:carbin"
+    },
+    "4": {
+      "item": "minecraft:iron_block"
+    },
+    "5": {
+      "item": "swordsandsandals:carbinblock"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:maul_sick",
+    "count": 1
+  }
+}

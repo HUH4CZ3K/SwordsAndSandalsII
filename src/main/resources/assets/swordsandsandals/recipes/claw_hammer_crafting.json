@@ -1,0 +1,20 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "2 "
+  ],
+  "key": {
+    "1": {
+      "item": "swordsandsandals:claw_hammer_blade_part"
+    },
+    "2": {
+      "item": "swordsandsandals:claw_hammer_stick"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:claw_hammer",
+    "count": 1
+  }
+}

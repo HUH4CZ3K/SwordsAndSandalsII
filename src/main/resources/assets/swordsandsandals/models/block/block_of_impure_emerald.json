@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "swordsandsandals:blocks/imported_piskel",
+    "up": "swordsandsandals:blocks/imported_piskel",
+    "north": "swordsandsandals:blocks/imported_piskel",
+    "east": "swordsandsandals:blocks/imported_piskel",
+    "south": "swordsandsandals:blocks/imported_piskel",
+    "west": "swordsandsandals:blocks/imported_piskel",
+    "particle": "swordsandsandals:blocks/imported_piskel"
+  }
+}

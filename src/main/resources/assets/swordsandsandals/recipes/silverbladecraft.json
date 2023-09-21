@@ -1,0 +1,44 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond"
+    },
+    "1": {
+      "item": "swordsandsandals:crystal"
+    },
+    "2": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "3": {
+      "item": "minecraft:diamond_block"
+    },
+    "4": {
+      "item": "swordsandsandals:crystal"
+    },
+    "5": {
+      "item": "swordsandsandals:blockofsaphire"
+    },
+    "6": {
+      "item": "minecraft:diamond"
+    },
+    "7": {
+      "item": "swordsandsandals:crystal"
+    },
+    "8": {
+      "item": "minecraft:dye",
+      "data": 12
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:silverlongswordblade",
+    "count": 1
+  }
+}

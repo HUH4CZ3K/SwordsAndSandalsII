@@ -1,0 +1,36 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "swordsandsandals:carbin"
+    },
+    "3": {
+      "item": "swordsandsandals:carbin"
+    },
+    "4": {
+      "item": "swordsandsandals:ancient_gem_3"
+    },
+    "5": {
+      "item": "swordsandsandals:carbin"
+    },
+    "6": {
+      "item": "swordsandsandals:carbin"
+    },
+    "7": {
+      "item": "swordsandsandals:carbinblock"
+    },
+    "8": {
+      "item": "swordsandsandals:carbin"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:ancient_drill_head",
+    "count": 1
+  }
+}

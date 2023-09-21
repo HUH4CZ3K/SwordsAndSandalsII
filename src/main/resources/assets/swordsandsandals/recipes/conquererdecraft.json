@@ -1,0 +1,16 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:block_of_conqerer_composite"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:conquerer_composite",
+    "count": 9
+  }
+}

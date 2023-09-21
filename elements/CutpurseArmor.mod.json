@@ -1,0 +1,58 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "cutpursehelmtexture",
+    "enableBody": true,
+    "textureBody": "cutpursechestplatetexture",
+    "enableLeggings": true,
+    "textureLeggings": "cutpurselegginstexture",
+    "enableBoots": true,
+    "textureBoots": "cutpurseboottexture",
+    "creativeTab": {
+      "value": "CUSTOM:SwordsAndSandalsArmors"
+    },
+    "armorTextureFile": "antaresalpha_",
+    "helmetName": "Cutpurse Helmet",
+    "bodyName": "Cutpurse Chestplate",
+    "leggingsName": "Cutpurse Leggins",
+    "bootsName": "Cutpurse Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "ModelCotpurseHelmTexture",
+    "helmetModelPart": "Head",
+    "helmetModelTexture": "cutpursehelmtexture.png",
+    "bodyModelName": "ModelCutpurseCheastplatemodelnowu",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightArm",
+    "bodyModelTexture": "cupursechestplate3.png",
+    "leggingsModelName": "ModelPeasantLeggins",
+    "leggingsModelPartL": "LeftLeg",
+    "leggingsModelPartR": "RightLeg",
+    "leggingsModelTexture": "cutpurselegginstexture.png",
+    "bootsModelName": "ModelBrigandBootpoprawione",
+    "bootsModelPartL": "LeftLeg",
+    "bootsModelPartR": "RightLeg",
+    "bootsModelTexture": "cutpursebootstexture.png",
+    "maxDamage": 100,
+    "damageValueHelmet": 1,
+    "damageValueBody": 4,
+    "damageValueLeggings": 3,
+    "damageValueBoots": 1,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": "item.armor.equip_gold"
+    },
+    "repairItems": [
+      {
+        "value": "Items.GOLD_INGOT"
+      }
+    ]
+  }
+}

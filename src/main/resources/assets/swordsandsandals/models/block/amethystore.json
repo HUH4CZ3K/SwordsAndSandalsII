@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "swordsandsandals:blocks/metist_re",
+    "up": "swordsandsandals:blocks/metist_re",
+    "north": "swordsandsandals:blocks/metist_re",
+    "east": "swordsandsandals:blocks/metist_re",
+    "south": "swordsandsandals:blocks/metist_re",
+    "west": "swordsandsandals:blocks/metist_re",
+    "particle": "swordsandsandals:blocks/metist_re"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "S&S Weapons",
+    "icon": {
+      "value": "CUSTOM:Daikatana"
+    },
+    "showSearch": true
+  }
+}

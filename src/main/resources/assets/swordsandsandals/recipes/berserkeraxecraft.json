@@ -1,0 +1,20 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "2 "
+  ],
+  "key": {
+    "1": {
+      "item": "swordsandsandals:berserkeraxeblade"
+    },
+    "2": {
+      "item": "swordsandsandals:berserkeraxestick"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:berserkeraxe",
+    "count": 1
+  }
+}

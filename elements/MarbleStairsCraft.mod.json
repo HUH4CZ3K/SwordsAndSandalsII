@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 8,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BlockOfMarble"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BlockOfMarble"
+      },
+      {
+        "value": "CUSTOM:BlockOfMarble"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BlockOfMarble"
+      },
+      {
+        "value": "CUSTOM:BlockOfMarble"
+      },
+      {
+        "value": "CUSTOM:BlockOfMarble"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BlockOfMarbleStairs"
+    },
+    "name": "marble_stairs_craft",
+    "namespace": "minecraft"
+  }
+}

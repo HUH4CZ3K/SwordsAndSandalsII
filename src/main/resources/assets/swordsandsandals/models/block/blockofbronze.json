@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "swordsandsandals:blocks/bronze_block",
+    "up": "swordsandsandals:blocks/bronze_block",
+    "north": "swordsandsandals:blocks/bronze_block",
+    "east": "swordsandsandals:blocks/bronze_block",
+    "south": "swordsandsandals:blocks/bronze_block",
+    "west": "swordsandsandals:blocks/bronze_block",
+    "particle": "swordsandsandals:blocks/bronze_block"
+  }
+}

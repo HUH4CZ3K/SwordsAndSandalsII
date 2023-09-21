@@ -1,0 +1,16 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "swordsandsandals:conquerer_boot"
+    },
+    {
+      "item": "swordsandsandals:conquerer_boot"
+    }
+  ],
+  "result": {
+    "item": "swordsandsandals:conquerer_armorboots",
+    "count": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "WhiteLedge",
+	"textures": {
+		"0": "Whitepas/Whitepas",
+		"particle": "Whitepas/Whitepas"
+	},
+	"elements": [
+		{
+			"from": [0, 12, 15],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 4], "texture": "#0"},
+				"east": {"uv": [0, 10, 1, 14], "texture": "#0"},
+				"south": {"uv": [0, 4, 16, 8], "texture": "#0"},
+				"west": {"uv": [1, 10, 2, 14], "texture": "#0"},
+				"up": {"uv": [16, 9, 0, 8], "texture": "#0"},
+				"down": {"uv": [16, 9, 0, 10], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, -3.75, -5.5],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, -3.75, -5.5],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"translation": [-3.25, 1, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"translation": [-3.25, 1, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 0, -5.75],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"gui": {
+			"translation": [0, -6, 0]
+		},
+		"fixed": {
+			"translation": [0, -6, -7.75]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

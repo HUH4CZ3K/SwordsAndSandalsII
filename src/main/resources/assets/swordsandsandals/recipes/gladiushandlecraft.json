@@ -1,0 +1,26 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:impureemerald"
+    },
+    "1": {
+      "item": "minecraft:log2",
+      "data": 1
+    },
+    "2": {
+      "item": "minecraft:log2",
+      "data": 1
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:gladiushandle",
+    "count": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "3 5",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:wooden_button"
+    },
+    "3": {
+      "item": "minecraft:glass_pane"
+    },
+    "5": {
+      "item": "minecraft:glass_pane"
+    },
+    "7": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:small_bottle",
+    "count": 1
+  }
+}

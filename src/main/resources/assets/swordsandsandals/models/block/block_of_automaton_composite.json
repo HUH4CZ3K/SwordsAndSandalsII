@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "swordsandsandals:blocks/334907848_165740219596828_4577794601499174479_n",
+    "up": "swordsandsandals:blocks/334907848_165740219596828_4577794601499174479_n",
+    "north": "swordsandsandals:blocks/334907848_165740219596828_4577794601499174479_n",
+    "east": "swordsandsandals:blocks/334907848_165740219596828_4577794601499174479_n",
+    "south": "swordsandsandals:blocks/334907848_165740219596828_4577794601499174479_n",
+    "west": "swordsandsandals:blocks/334907848_165740219596828_4577794601499174479_n",
+    "particle": "swordsandsandals:blocks/334907848_165740219596828_4577794601499174479_n"
+  }
+}

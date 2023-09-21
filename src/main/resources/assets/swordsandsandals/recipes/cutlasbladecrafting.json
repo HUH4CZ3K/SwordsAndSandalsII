@@ -1,0 +1,24 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "minecraft:blaze_rod"
+    },
+    "4": {
+      "item": "minecraft:gold_block"
+    },
+    "6": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:cutlasblade",
+    "count": 1
+  }
+}

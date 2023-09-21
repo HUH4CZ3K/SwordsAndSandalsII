@@ -1,0 +1,24 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "swordsandsandals:katanabladepart2"
+    },
+    "4": {
+      "item": "swordsandsandals:katanabladepart1"
+    },
+    "6": {
+      "item": "swordsandsandals:katanahandle"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:katana",
+    "count": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ancesorkatanatextureupdated",
+    "customModelName": "Normal",
+    "name": "Ancestor Katana",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SwordsAndSandalsWeapons"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 0,
+    "efficiency": 5.0,
+    "attackSpeed": 1.5999999999999999,
+    "enchantability": 24,
+    "damageVsEntity": 53.0,
+    "usageCount": 2148,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.EMERALD_BLOCK"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

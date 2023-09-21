@@ -1,0 +1,33 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_block"
+    },
+    "1": {
+      "item": "swordsandsandals:carbin"
+    },
+    "2": {
+      "item": "minecraft:gold_block"
+    },
+    "3": {
+      "item": "swordsandsandals:blockofcrystal"
+    },
+    "4": {
+      "item": "minecraft:quartz_block",
+      "data": 0
+    },
+    "5": {
+      "item": "swordsandsandals:blockofcrystal"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:champion_composite",
+    "count": 1
+  }
+}

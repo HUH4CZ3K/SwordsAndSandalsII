@@ -1,0 +1,42 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:blockofsaphire"
+    },
+    "1": {
+      "item": "swordsandsandals:carbinblock"
+    },
+    "2": {
+      "item": "swordsandsandals:blockofsaphire"
+    },
+    "3": {
+      "item": "swordsandsandals:saphire"
+    },
+    "4": {
+      "item": "swordsandsandals:carbinblock"
+    },
+    "5": {
+      "item": "swordsandsandals:saphire"
+    },
+    "6": {
+      "item": "swordsandsandals:blockofsaphire"
+    },
+    "7": {
+      "item": "swordsandsandals:carbinblock"
+    },
+    "8": {
+      "item": "swordsandsandals:blockofsaphire"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:dual_maul_stick",
+    "count": 1
+  }
+}

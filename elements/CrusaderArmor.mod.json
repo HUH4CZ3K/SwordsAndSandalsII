@@ -1,0 +1,58 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "crusaderhelmetitem",
+    "enableBody": true,
+    "textureBody": "crusaderchestplateitem",
+    "enableLeggings": true,
+    "textureLeggings": "crusaderlegginsitem",
+    "enableBoots": true,
+    "textureBoots": "crusaderbootsitem",
+    "creativeTab": {
+      "value": "CUSTOM:SwordsAndSandalsArmors"
+    },
+    "armorTextureFile": "test",
+    "helmetName": "Crusader Helmet",
+    "bodyName": "Crusader Chestplate",
+    "leggingsName": "Crusader Leggings",
+    "bootsName": "Crusader Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "ModelCrusaderHelmet",
+    "helmetModelPart": "Head",
+    "helmetModelTexture": "crusaderhelmettexture.png",
+    "bodyModelName": "ModelCrusaderChestplate",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightArm",
+    "bodyModelTexture": "crusaderchestplatetexture.png",
+    "leggingsModelName": "ModelCrusaderLeggins",
+    "leggingsModelPartL": "LeftLeg",
+    "leggingsModelPartR": "RightLeg",
+    "leggingsModelTexture": "crusaderlegginstexture.png",
+    "bootsModelName": "ModelChampionBoots",
+    "bootsModelPartL": "LeftBoot",
+    "bootsModelPartR": "RightBoot",
+    "bootsModelTexture": "crusaderbootstexture.png",
+    "maxDamage": 300,
+    "damageValueHelmet": 8,
+    "damageValueBody": 17,
+    "damageValueLeggings": 12,
+    "damageValueBoots": 6,
+    "enchantability": 15,
+    "toughness": 7.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": "item.armor.equip_chain"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:BlockOfSaphire"
+      }
+    ]
+  }
+}

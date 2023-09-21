@@ -1,0 +1,16 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:blockofrubin"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:rubin",
+    "count": 9
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:blockofsaphire"
+    },
+    "1": {
+      "item": "swordsandsandals:blockofsaphire"
+    },
+    "2": {
+      "item": "swordsandsandals:blockofsaphire"
+    },
+    "3": {
+      "item": "swordsandsandals:blockofsaphire"
+    },
+    "4": {
+      "item": "swordsandsandals:carbinblock"
+    },
+    "5": {
+      "item": "swordsandsandals:blockofsaphire"
+    },
+    "7": {
+      "item": "swordsandsandals:carbinblock"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:knight_crossbow",
+    "count": 1
+  }
+}

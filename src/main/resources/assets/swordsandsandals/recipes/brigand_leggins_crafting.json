@@ -1,0 +1,36 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:leather"
+    },
+    "1": {
+      "item": "minecraft:leather"
+    },
+    "2": {
+      "item": "minecraft:leather"
+    },
+    "3": {
+      "item": "swordsandsandals:bronzeingot"
+    },
+    "5": {
+      "item": "swordsandsandals:bronzeingot"
+    },
+    "6": {
+      "item": "swordsandsandals:bronzeingot"
+    },
+    "8": {
+      "item": "swordsandsandals:bronzeingot"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:brigand_armourlegs",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345"
+  ],
+  "key": {
+    "1": {
+      "item": "swordsandsandals:amethyst"
+    },
+    "3": {
+      "item": "swordsandsandals:amethyst"
+    },
+    "4": {
+      "item": "swordsandsandals:blockofcrystal"
+    },
+    "5": {
+      "item": "swordsandsandals:amethyst"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:amethyst_pillar",
+    "count": 1
+  }
+}

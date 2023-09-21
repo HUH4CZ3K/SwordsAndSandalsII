@@ -1,0 +1,66 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "automatonhelmettxt",
+    "enableBody": true,
+    "textureBody": "automatonchestplatetexture",
+    "enableLeggings": true,
+    "textureLeggings": "automatonlegginstexture",
+    "enableBoots": true,
+    "textureBoots": "automatonbootstexture",
+    "onHelmetTick": {
+      "name": "AutomatonArmorHelmetTickEvent"
+    },
+    "onBodyTick": {
+      "name": "AutomatonArmorBodyTickEvent"
+    },
+    "onLeggingsTick": {
+      "name": "AutomatonArmorLeggingsTickEvent"
+    },
+    "onBootsTick": {
+      "name": "AutomatonArmorBootsTickEvent"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:SwordsAndSandalsArmors"
+    },
+    "armorTextureFile": "antaresalpha_",
+    "helmetName": "Automaton Helmet",
+    "bodyName": "Automaton Chestplate",
+    "leggingsName": "Automaton Leggings",
+    "bootsName": "Automaton Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "ModelAutomatonHelmet",
+    "helmetModelPart": "Head",
+    "helmetModelTexture": "automatonhelmettexture.png",
+    "bodyModelName": "ModelAutomatonChestplate",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightArm",
+    "bodyModelTexture": "automatonchesttexture.png",
+    "leggingsModelName": "ModelAutomatonLeggins",
+    "leggingsModelPartL": "LeftLeg",
+    "leggingsModelPartR": "RightLeg",
+    "leggingsModelTexture": "automatonlegginstexture.png",
+    "bootsModelName": "ModelAutomatonBoots",
+    "bootsModelPartL": "LeftBoot",
+    "bootsModelPartR": "RightBoot",
+    "bootsModelTexture": "automatonbootstexture.png",
+    "maxDamage": 475,
+    "damageValueHelmet": 12,
+    "damageValueBody": 32,
+    "damageValueLeggings": 19,
+    "damageValueBoots": 9,
+    "enchantability": 22,
+    "toughness": 10.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": "item.armor.equip_diamond"
+    },
+    "repairItems": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:champion_composite"
+    },
+    "1": {
+      "item": "minecraft:wool",
+      "data": 9
+    },
+    "2": {
+      "item": "swordsandsandals:champion_composite"
+    },
+    "3": {
+      "item": "swordsandsandals:champion_composite"
+    },
+    "5": {
+      "item": "swordsandsandals:champion_composite"
+    },
+    "6": {
+      "item": "minecraft:diamond_block"
+    },
+    "8": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:champion_armorlegs",
+    "count": 1
+  }
+}

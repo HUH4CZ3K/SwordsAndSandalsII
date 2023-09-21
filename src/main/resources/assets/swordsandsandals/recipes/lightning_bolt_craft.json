@@ -1,0 +1,23 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 12
+    },
+    {
+      "item": "swordsandsandals:ancient_gem"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "result": {
+    "item": "swordsandsandals:lightning_bolt",
+    "count": 1
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "frightningbolttexture",
+    "customModelName": "Normal",
+    "name": "Frightning Bolt",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:MagicItems"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": true,
+    "usageCount": 0,
+    "actionSound": {
+      "value": ""
+    },
+    "hasGlow": false,
+    "animation": "none",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "onRangedItemUsed": {
+      "name": "FrightningBoltRangedItemUsed"
+    },
+    "bulletPower": 1.5,
+    "bulletDamage": 10.0,
+    "bulletKnockback": 0,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:FrightningBolt"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "poduszka_do_cupniaka_texture.png",
+    "onBulletHitsBlock": {
+      "name": "FrightningBoltBulletHitsBlock"
+    },
+    "onBulletHitsEntity": {
+      "name": "FrightningBoltBulletHitsLivingEntity"
+    }
+  }
+}

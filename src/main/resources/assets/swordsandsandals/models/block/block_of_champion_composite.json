@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "swordsandsandals:blocks/blockofchampioncompositetexture",
+    "up": "swordsandsandals:blocks/blockofchampioncompositetexture",
+    "north": "swordsandsandals:blocks/blockofchampioncompositetexture",
+    "east": "swordsandsandals:blocks/blockofchampioncompositetexture",
+    "south": "swordsandsandals:blocks/blockofchampioncompositetexture",
+    "west": "swordsandsandals:blocks/blockofchampioncompositetexture",
+    "particle": "swordsandsandals:blocks/blockofchampioncompositetexture"
+  }
+}

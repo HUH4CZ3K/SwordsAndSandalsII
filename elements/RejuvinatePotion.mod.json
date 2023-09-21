@@ -1,0 +1,22 @@
+{
+  "_fv": 18,
+  "_type": "potion",
+  "definition": {
+    "name": "Rejuvinate Potion",
+    "effectName": "Rejuvinate Potion",
+    "icon": "rejuvinateother.png",
+    "color": {
+      "value": -11776,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": true,
+    "registerPotionType": false,
+    "renderStatusInInventory": false,
+    "renderStatusInHUD": false,
+    "onStarted": {
+      "name": "RejuvinatePotionPotionStartedapplied"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:rubin"
+    },
+    "1": {
+      "item": "swordsandsandals:rubin"
+    },
+    "2": {
+      "item": "swordsandsandals:rubin"
+    },
+    "3": {
+      "item": "swordsandsandals:rubin"
+    },
+    "4": {
+      "item": "swordsandsandals:rubin"
+    },
+    "5": {
+      "item": "swordsandsandals:rubin"
+    },
+    "6": {
+      "item": "swordsandsandals:rubin"
+    },
+    "7": {
+      "item": "swordsandsandals:rubin"
+    },
+    "8": {
+      "item": "swordsandsandals:rubin"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:blockofrubin",
+    "count": 1
+  }
+}

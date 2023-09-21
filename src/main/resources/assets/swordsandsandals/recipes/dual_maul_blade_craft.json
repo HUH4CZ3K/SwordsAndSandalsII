@@ -1,0 +1,36 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "swordsandsandals:blockofsaphire"
+    },
+    "3": {
+      "item": "swordsandsandals:amethyst"
+    },
+    "4": {
+      "item": "swordsandsandals:carbinblock"
+    },
+    "5": {
+      "item": "swordsandsandals:amethyst"
+    },
+    "6": {
+      "item": "swordsandsandals:amethyst"
+    },
+    "7": {
+      "item": "swordsandsandals:blockofsaphire"
+    },
+    "8": {
+      "item": "swordsandsandals:amethyst"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:dual_maul_blade",
+    "count": 1
+  }
+}

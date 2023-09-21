@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Amethyst"
+      },
+      {
+        "value": "CUSTOM:PolishedObsidianIngot"
+      },
+      {
+        "value": "CUSTOM:Amethyst"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PolishedObsidianIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BlockOfAmethyst"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BastardswordHandle"
+    },
+    "name": "bastardhandlecraft",
+    "namespace": "minecraft"
+  }
+}

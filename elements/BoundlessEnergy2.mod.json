@@ -1,0 +1,25 @@
+{
+  "_fv": 18,
+  "_type": "potion",
+  "definition": {
+    "name": "Boundless Energy",
+    "effectName": "Boundless Energy",
+    "icon": "boundlessenergytexture2.png",
+    "color": {
+      "value": -16772097,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": true,
+    "registerPotionType": false,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onStarted": {
+      "name": "BoundlessEnergy2PotionStartedapplied"
+    },
+    "onActiveTick": {
+      "name": "BoundlessEnergy2PotionStartedapplied"
+    }
+  }
+}

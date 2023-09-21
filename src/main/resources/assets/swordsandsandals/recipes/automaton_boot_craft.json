@@ -1,0 +1,23 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "23"
+  ],
+  "key": {
+    "1": {
+      "item": "swordsandsandals:blockofsaphire"
+    },
+    "2": {
+      "item": "swordsandsandals:automaton_composite"
+    },
+    "3": {
+      "item": "swordsandsandals:automaton_composite"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:automaton_boot",
+    "count": 1
+  }
+}

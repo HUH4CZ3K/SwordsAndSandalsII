@@ -1,0 +1,32 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:polishedobsidianingot"
+    },
+    "1": {
+      "item": "minecraft:iron_block"
+    },
+    "2": {
+      "item": "swordsandsandals:polishedobsidianingot"
+    },
+    "4": {
+      "item": "minecraft:log2",
+      "data": 1
+    },
+    "7": {
+      "item": "minecraft:log2",
+      "data": 1
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:claymorehandle",
+    "count": 1
+  }
+}

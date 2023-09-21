@@ -1,0 +1,33 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:carbin"
+    },
+    "1": {
+      "item": "swordsandsandals:blockofbronze"
+    },
+    "2": {
+      "item": "swordsandsandals:carbin"
+    },
+    "3": {
+      "item": "swordsandsandals:blockofbronze"
+    },
+    "4": {
+      "item": "swordsandsandals:carbin"
+    },
+    "5": {
+      "item": "swordsandsandals:blockofbronze"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:quake_staff_stick",
+    "count": 1
+  }
+}

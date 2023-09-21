@@ -1,0 +1,33 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:block_of_marble"
+    },
+    "3": {
+      "item": "swordsandsandals:block_of_marble"
+    },
+    "4": {
+      "item": "swordsandsandals:block_of_marble"
+    },
+    "6": {
+      "item": "swordsandsandals:block_of_marble"
+    },
+    "7": {
+      "item": "swordsandsandals:block_of_marble"
+    },
+    "8": {
+      "item": "swordsandsandals:block_of_marble"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:block_of_marble_stairs",
+    "count": 8
+  }
+}

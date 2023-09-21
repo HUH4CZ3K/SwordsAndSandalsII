@@ -1,0 +1,19 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:white_ledge_corner"
+    },
+    "1": {
+      "item": "swordsandsandals:white_ledge_corner"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:whie_ledge",
+    "count": 3
+  }
+}

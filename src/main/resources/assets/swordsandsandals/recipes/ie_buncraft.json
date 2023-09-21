@@ -1,0 +1,13 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "swordsandsandals:block_of_impure_emerald"
+    }
+  ],
+  "result": {
+    "item": "swordsandsandals:impureemerald",
+    "count": 9
+  }
+}

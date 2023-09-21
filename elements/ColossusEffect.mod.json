@@ -1,0 +1,25 @@
+{
+  "_fv": 18,
+  "_type": "potion",
+  "definition": {
+    "name": "Colossus",
+    "effectName": "Colossus",
+    "icon": "colossus2txt.png",
+    "color": {
+      "value": -1539584,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": true,
+    "registerPotionType": false,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onStarted": {
+      "name": "ColossusEffectPotionStartedapplied"
+    },
+    "onActiveTick": {
+      "name": "ColossusEffectOnPotionActiveTick"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_fv": 18,
+  "_type": "potion",
+  "definition": {
+    "name": "Regenerate",
+    "effectName": "Regenerate",
+    "icon": "regeneratetexture.png",
+    "color": {
+      "value": -65536,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": false,
+    "registerPotionType": false,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onActiveTick": {
+      "name": "RegenerateOnPotionActiveTick"
+    }
+  }
+}

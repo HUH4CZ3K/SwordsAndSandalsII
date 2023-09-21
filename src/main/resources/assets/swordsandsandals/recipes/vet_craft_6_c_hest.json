@@ -1,0 +1,44 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond"
+    },
+    "2": {
+      "item": "minecraft:diamond"
+    },
+    "3": {
+      "item": "minecraft:wool",
+      "data": 3
+    },
+    "4": {
+      "item": "minecraft:wool",
+      "data": 3
+    },
+    "5": {
+      "item": "minecraft:wool",
+      "data": 3
+    },
+    "6": {
+      "item": "minecraft:wool",
+      "data": 3
+    },
+    "7": {
+      "item": "minecraft:gold_ingot"
+    },
+    "8": {
+      "item": "minecraft:wool",
+      "data": 3
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:veteran_armorbody",
+    "count": 1
+  }
+}

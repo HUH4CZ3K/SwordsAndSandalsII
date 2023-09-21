@@ -1,0 +1,66 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "helmofagestexture2",
+    "enableBody": true,
+    "textureBody": "emperorschestplate",
+    "enableLeggings": true,
+    "textureLeggings": "emperorslegginstexture2",
+    "enableBoots": true,
+    "textureBoots": "emperorbootstexture2",
+    "onHelmetTick": {
+      "name": "EmperorsArmorHelmetTickEvent"
+    },
+    "onBodyTick": {
+      "name": "EmperorsArmorBodyTickEvent"
+    },
+    "onLeggingsTick": {
+      "name": "EmperorsArmorLeggingsTickEvent"
+    },
+    "onBootsTick": {
+      "name": "EmperorsArmorBootsTickEvent"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:SwordsAndSandalsArmors"
+    },
+    "armorTextureFile": "mperors__2",
+    "helmetName": "Helm Of Ages",
+    "bodyName": "Emperors Chestplate",
+    "leggingsName": "Emperors Leggins",
+    "bootsName": "Emperors Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "ModelHelmOfAges",
+    "helmetModelPart": "Head",
+    "helmetModelTexture": "helmofages.png",
+    "bodyModelName": "ModelEmperorsChestplate",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightArm",
+    "bodyModelTexture": "emperorschestplatetexture.png",
+    "leggingsModelName": "ModelChampionLeggins",
+    "leggingsModelPartL": "LeftLeg",
+    "leggingsModelPartR": "RightLeg",
+    "leggingsModelTexture": "emperorslegginstexture.png",
+    "bootsModelName": "ModelChampionBoots",
+    "bootsModelPartL": "LeftBoot",
+    "bootsModelPartR": "RightBoot",
+    "bootsModelTexture": "emperorsbootstexture.png",
+    "maxDamage": 1000,
+    "damageValueHelmet": 15,
+    "damageValueBody": 39,
+    "damageValueLeggings": 24,
+    "damageValueBoots": 12,
+    "enchantability": 12,
+    "toughness": 10.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": "item.armor.equip_gold"
+    },
+    "repairItems": []
+  }
+}

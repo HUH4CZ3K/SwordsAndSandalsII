@@ -1,0 +1,66 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "championhelmetitemtexture",
+    "enableBody": true,
+    "textureBody": "championchestplatetexture",
+    "enableLeggings": true,
+    "textureLeggings": "championlegginstexture",
+    "enableBoots": true,
+    "textureBoots": "championbootstexture",
+    "onHelmetTick": {
+      "name": "ChampionArmorHelmetTickEvent"
+    },
+    "onBodyTick": {
+      "name": "ChampionArmorBodyTickEvent"
+    },
+    "onLeggingsTick": {
+      "name": "ChampionArmorLeggingsTickEvent"
+    },
+    "onBootsTick": {
+      "name": "ChampionArmorBootsTickEvent"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:SwordsAndSandalsArmors"
+    },
+    "armorTextureFile": "test",
+    "helmetName": "Champion Helmet",
+    "bodyName": "Champion Chestplate",
+    "leggingsName": "Champion Leggins",
+    "bootsName": "Champion Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "ModelChampionHelmet3",
+    "helmetModelPart": "Head",
+    "helmetModelTexture": "cht4.png",
+    "bodyModelName": "ModelChampionChestplateModel3",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightArm",
+    "bodyModelTexture": "championchestplatetexture5.png",
+    "leggingsModelName": "ModelChampionLeggins",
+    "leggingsModelPartL": "LeftLeg",
+    "leggingsModelPartR": "RightLeg",
+    "leggingsModelTexture": "championlegginstexture.png",
+    "bootsModelName": "ModelChampionBoots",
+    "bootsModelPartL": "LeftBoot",
+    "bootsModelPartR": "RightBoot",
+    "bootsModelTexture": "championbootstexture.png",
+    "maxDamage": 750,
+    "damageValueHelmet": 13,
+    "damageValueBody": 35,
+    "damageValueLeggings": 22,
+    "damageValueBoots": 11,
+    "enchantability": 26,
+    "toughness": 10.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": "item.armor.equip_diamond"
+    },
+    "repairItems": []
+  }
+}

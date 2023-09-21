@@ -1,0 +1,30 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "swordsandsandals:blockofbronze"
+    },
+    "3": {
+      "item": "swordsandsandals:blockofbronze"
+    },
+    "4": {
+      "item": "swordsandsandals:blockofrubin"
+    },
+    "5": {
+      "item": "minecraft:iron_ingot"
+    },
+    "7": {
+      "item": "swordsandsandals:blockofbronze"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:greataxeblade",
+    "count": 1
+  }
+}

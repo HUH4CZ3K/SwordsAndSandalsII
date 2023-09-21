@@ -1,0 +1,42 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:bronzeingot"
+    },
+    "1": {
+      "item": "swordsandsandals:bronzeingot"
+    },
+    "2": {
+      "item": "swordsandsandals:bronzeingot"
+    },
+    "3": {
+      "item": "swordsandsandals:bronzeingot"
+    },
+    "4": {
+      "item": "swordsandsandals:bronzeingot"
+    },
+    "5": {
+      "item": "swordsandsandals:bronzeingot"
+    },
+    "6": {
+      "item": "swordsandsandals:bronzeingot"
+    },
+    "7": {
+      "item": "swordsandsandals:bronzeingot"
+    },
+    "8": {
+      "item": "swordsandsandals:bronzeingot"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:blockofbronze",
+    "count": 1
+  }
+}

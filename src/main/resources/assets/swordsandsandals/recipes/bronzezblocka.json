@@ -1,0 +1,16 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:blockofbronze"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:bronzeingot",
+    "count": 9
+  }
+}

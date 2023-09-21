@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "weakenarmortexture",
+    "customModelName": "Normal",
+    "name": "Weaken Armor",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:MagicItems"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": true,
+    "usageCount": 0,
+    "actionSound": {
+      "value": ""
+    },
+    "hasGlow": false,
+    "animation": "none",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "onRangedItemUsed": {
+      "name": "WeakenArmorRangedItemUsed"
+    },
+    "bulletPower": 2.0,
+    "bulletDamage": 0.1,
+    "bulletKnockback": 0,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:WeakenArmor"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "WeakenArmorBulletHitsBlock"
+    },
+    "onBulletHitsEntity": {
+      "name": "WeakenArmorBulletHitsLivingEntity"
+    }
+  }
+}

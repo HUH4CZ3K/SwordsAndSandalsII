@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "swordsandsandals:whie_ledge"
+    },
+    "facing=north": {
+      "model": "swordsandsandals:whie_ledge"
+    },
+    "facing=east": {
+      "model": "swordsandsandals:whie_ledge",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "swordsandsandals:whie_ledge",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "swordsandsandals:whie_ledge",
+      "y": 270
+    }
+  }
+}

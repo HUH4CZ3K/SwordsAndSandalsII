@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "wicks_staff_texture"
+      },
+      "name": "default"
+    }
+  }
+}

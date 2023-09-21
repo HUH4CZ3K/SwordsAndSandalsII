@@ -1,0 +1,24 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:polishedobsidianingot"
+    },
+    "1": {
+      "item": "minecraft:obsidian"
+    },
+    "2": {
+      "item": "swordsandsandals:polishedobsidianingot"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:madmanscleaverstick",
+    "count": 1
+  }
+}

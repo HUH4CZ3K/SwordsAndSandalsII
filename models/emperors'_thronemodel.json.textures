@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "emperors_throne_texture"
+      },
+      "name": "default"
+    }
+  }
+}

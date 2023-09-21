@@ -1,0 +1,42 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:blockofbronze"
+    },
+    "1": {
+      "item": "swordsandsandals:carbin"
+    },
+    "2": {
+      "item": "swordsandsandals:blockofbronze"
+    },
+    "3": {
+      "item": "swordsandsandals:blockofbronze"
+    },
+    "4": {
+      "item": "swordsandsandals:carbin"
+    },
+    "5": {
+      "item": "swordsandsandals:blockofbronze"
+    },
+    "6": {
+      "item": "swordsandsandals:blockofbronze"
+    },
+    "7": {
+      "item": "swordsandsandals:carbin"
+    },
+    "8": {
+      "item": "swordsandsandals:blockofbronze"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:spiked_maul_stick",
+    "count": 1
+  }
+}

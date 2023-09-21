@@ -1,0 +1,39 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:automaton_composite"
+    },
+    "2": {
+      "item": "swordsandsandals:automaton_composite"
+    },
+    "3": {
+      "item": "swordsandsandals:automaton_composite"
+    },
+    "4": {
+      "item": "swordsandsandals:blockofsaphire"
+    },
+    "5": {
+      "item": "swordsandsandals:automaton_composite"
+    },
+    "6": {
+      "item": "swordsandsandals:blockofsaphire"
+    },
+    "7": {
+      "item": "swordsandsandals:automaton_composite"
+    },
+    "8": {
+      "item": "swordsandsandals:blockofsaphire"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:automaton_armorbody",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stick"
+    },
+    "1": {
+      "item": "minecraft:log",
+      "data": 3
+    },
+    "2": {
+      "item": "swordsandsandals:impureemerald"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:greensteelaxestick",
+    "count": 1
+  }
+}

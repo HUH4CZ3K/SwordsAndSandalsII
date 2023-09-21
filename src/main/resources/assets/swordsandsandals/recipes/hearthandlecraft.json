@@ -1,0 +1,30 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:polishedobsidianingot"
+    },
+    "1": {
+      "item": "swordsandsandals:carbin"
+    },
+    "2": {
+      "item": "swordsandsandals:polishedobsidianingot"
+    },
+    "4": {
+      "item": "swordsandsandals:blockofrubin"
+    },
+    "7": {
+      "item": "swordsandsandals:blockofrubin"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:heartbladehandle",
+    "count": 1
+  }
+}

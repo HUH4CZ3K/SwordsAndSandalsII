@@ -1,0 +1,33 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "1": {
+      "item": "swordsandsandals:conquerer_helmet_part"
+    },
+    "3": {
+      "item": "swordsandsandals:conquerer_composite"
+    },
+    "4": {
+      "item": "swordsandsandals:saphire"
+    },
+    "5": {
+      "item": "swordsandsandals:conquerer_composite"
+    },
+    "6": {
+      "item": "swordsandsandals:conquerer_composite"
+    },
+    "8": {
+      "item": "swordsandsandals:conquerer_composite"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:conquerer_armorhelmet",
+    "count": 1
+  }
+}

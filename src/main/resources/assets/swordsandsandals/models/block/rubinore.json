@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "swordsandsandals:blocks/rubin_ore",
+    "up": "swordsandsandals:blocks/rubin_ore",
+    "north": "swordsandsandals:blocks/rubin_ore",
+    "east": "swordsandsandals:blocks/rubin_ore",
+    "south": "swordsandsandals:blocks/rubin_ore",
+    "west": "swordsandsandals:blocks/rubin_ore",
+    "particle": "swordsandsandals:blocks/rubin_ore"
+  }
+}

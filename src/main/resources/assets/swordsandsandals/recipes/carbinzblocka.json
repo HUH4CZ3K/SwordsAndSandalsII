@@ -1,0 +1,16 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:carbinblock"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:carbin",
+    "count": 9
+  }
+}

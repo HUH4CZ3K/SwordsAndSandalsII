@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DiamondPlume"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DiamondPlume"
+      },
+      {
+        "value": "CUSTOM:ChampionComposite"
+      },
+      {
+        "value": "CUSTOM:ChampionChestplatePart"
+      },
+      {
+        "value": "CUSTOM:ChampionComposite"
+      },
+      {
+        "value": "CUSTOM:ChampionComposite"
+      },
+      {
+        "value": "Blocks.WOOL#9"
+      },
+      {
+        "value": "CUSTOM:ChampionComposite"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ChampionArmor.body"
+    },
+    "name": "champion_chestplate_craft",
+    "namespace": "minecraft"
+  }
+}

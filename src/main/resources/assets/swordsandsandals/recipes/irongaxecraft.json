@@ -1,0 +1,20 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "2 "
+  ],
+  "key": {
+    "1": {
+      "item": "swordsandsandals:irongreataxeblade"
+    },
+    "2": {
+      "item": "swordsandsandals:irongreataxestick"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:irongreataxe",
+    "count": 1
+  }
+}

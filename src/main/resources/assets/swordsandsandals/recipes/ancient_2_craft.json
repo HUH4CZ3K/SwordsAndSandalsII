@@ -1,0 +1,26 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:ancient_gem"
+    },
+    "1": {
+      "item": "swordsandsandals:ancient_gem"
+    },
+    "2": {
+      "item": "swordsandsandals:ancient_gem"
+    },
+    "3": {
+      "item": "swordsandsandals:ancient_gem"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:ancient_gem_2",
+    "count": 1
+  }
+}

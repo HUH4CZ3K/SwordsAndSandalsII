@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "swordsandsandals:white_ledge_corner"
+    },
+    "facing=north": {
+      "model": "swordsandsandals:white_ledge_corner"
+    },
+    "facing=east": {
+      "model": "swordsandsandals:white_ledge_corner",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "swordsandsandals:white_ledge_corner",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "swordsandsandals:white_ledge_corner",
+      "y": 270
+    }
+  }
+}

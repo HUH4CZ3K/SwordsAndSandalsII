@@ -1,0 +1,42 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:saphire"
+    },
+    "1": {
+      "item": "swordsandsandals:saphire"
+    },
+    "2": {
+      "item": "swordsandsandals:saphire"
+    },
+    "3": {
+      "item": "swordsandsandals:saphire"
+    },
+    "4": {
+      "item": "swordsandsandals:saphire"
+    },
+    "5": {
+      "item": "swordsandsandals:saphire"
+    },
+    "6": {
+      "item": "swordsandsandals:saphire"
+    },
+    "7": {
+      "item": "swordsandsandals:saphire"
+    },
+    "8": {
+      "item": "swordsandsandals:saphire"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:blockofsaphire",
+    "count": 1
+  }
+}

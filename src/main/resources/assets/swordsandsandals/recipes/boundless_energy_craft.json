@@ -1,0 +1,36 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:saphire"
+    },
+    "1": {
+      "item": "minecraft:apple"
+    },
+    "2": {
+      "item": "swordsandsandals:saphire"
+    },
+    "3": {
+      "item": "swordsandsandals:saphire"
+    },
+    "4": {
+      "item": "swordsandsandals:ancient_gem_2"
+    },
+    "5": {
+      "item": "swordsandsandals:saphire"
+    },
+    "7": {
+      "item": "swordsandsandals:saphire"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:boundless_energy_1",
+    "count": 1
+  }
+}

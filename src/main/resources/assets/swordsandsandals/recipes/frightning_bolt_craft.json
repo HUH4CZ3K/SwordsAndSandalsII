@@ -1,0 +1,38 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:redstone"
+    },
+    "2": {
+      "item": "swordsandsandals:ancient_gem"
+    },
+    "3": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "4": {
+      "item": "swordsandsandals:ancient_gem_2"
+    },
+    "5": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "6": {
+      "item": "swordsandsandals:ancient_gem"
+    },
+    "7": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:frightning_bolt",
+    "count": 1
+  }
+}

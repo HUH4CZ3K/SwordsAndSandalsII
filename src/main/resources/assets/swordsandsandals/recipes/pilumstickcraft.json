@@ -1,0 +1,24 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:carbin"
+    },
+    "1": {
+      "item": "swordsandsandals:carbinblock"
+    },
+    "2": {
+      "item": "swordsandsandals:carbin"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:pilumstick",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "swordsandsandals:dual_maul_blade"
+    },
+    "4": {
+      "item": "swordsandsandals:dual_maul_stick"
+    },
+    "6": {
+      "item": "swordsandsandals:dual_maul_blade"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:dual_maul",
+    "count": 1
+  }
+}

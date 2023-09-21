@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BlockOfRubin"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BlockOfRubin"
+      },
+      {
+        "value": "CUSTOM:BlockOfSaphire"
+      },
+      {
+        "value": "Blocks.WOOL#0"
+      },
+      {
+        "value": "CUSTOM:BlockOfSaphire"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "CUSTOM:BlockOfSaphire"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CrusaderArmor.body"
+    },
+    "name": "crusader_chestplate_craft",
+    "namespace": "minecraft"
+  }
+}

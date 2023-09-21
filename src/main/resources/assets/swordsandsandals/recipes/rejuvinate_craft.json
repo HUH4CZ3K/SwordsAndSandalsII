@@ -1,0 +1,38 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dye",
+      "data": 10
+    },
+    "1": {
+      "item": "minecraft:gold_nugget"
+    },
+    "2": {
+      "item": "minecraft:dye",
+      "data": 10
+    },
+    "3": {
+      "item": "minecraft:gold_block"
+    },
+    "4": {
+      "item": "swordsandsandals:ancient_gem_3"
+    },
+    "5": {
+      "item": "minecraft:gold_block"
+    },
+    "7": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:rejuvinate",
+    "count": 1
+  }
+}

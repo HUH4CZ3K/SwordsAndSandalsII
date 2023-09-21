@@ -1,0 +1,33 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:block_of_polished_crystal_2"
+    },
+    "3": {
+      "item": "swordsandsandals:block_of_polished_crystal_2"
+    },
+    "4": {
+      "item": "swordsandsandals:block_of_polished_crystal_2"
+    },
+    "6": {
+      "item": "swordsandsandals:block_of_polished_crystal_2"
+    },
+    "7": {
+      "item": "swordsandsandals:block_of_polished_crystal_2"
+    },
+    "8": {
+      "item": "swordsandsandals:block_of_polished_crystal_2"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:block_of_polished_crystal_2stairs",
+    "count": 8
+  }
+}

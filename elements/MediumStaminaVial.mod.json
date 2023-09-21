@@ -1,0 +1,29 @@
+{
+  "_fv": 18,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "mediumstaminavialtexture",
+    "customModelName": "Normal",
+    "name": "Medium Stamina Vial",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:MagicItems"
+    },
+    "stackSize": 1,
+    "nutritionalValue": 10,
+    "saturation": 0.5,
+    "eatingSpeed": 4,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "drink",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "MediumStaminaVialFoodEaten"
+    }
+  }
+}

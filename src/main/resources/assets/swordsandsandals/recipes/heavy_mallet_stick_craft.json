@@ -1,0 +1,38 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:log",
+      "data": 0
+    },
+    "1": {
+      "item": "minecraft:log",
+      "data": 0
+    },
+    "2": {
+      "item": "minecraft:log",
+      "data": 0
+    },
+    "3": {
+      "item": "swordsandsandals:carbin"
+    },
+    "4": {
+      "item": "minecraft:log",
+      "data": 0
+    },
+    "5": {
+      "item": "minecraft:log",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:heavy_mallet_stick",
+    "count": 1
+  }
+}

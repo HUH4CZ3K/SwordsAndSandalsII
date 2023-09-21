@@ -1,0 +1,16 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "swordsandsandals:hoplite_boot"
+    },
+    {
+      "item": "swordsandsandals:hoplite_boot"
+    }
+  ],
+  "result": {
+    "item": "swordsandsandals:hoplite_armorboots",
+    "count": 1
+  }
+}

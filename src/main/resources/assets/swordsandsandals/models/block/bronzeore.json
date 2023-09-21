@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "swordsandsandals:blocks/ruda_brazu",
+    "up": "swordsandsandals:blocks/ruda_brazu",
+    "north": "swordsandsandals:blocks/ruda_brazu",
+    "east": "swordsandsandals:blocks/ruda_brazu",
+    "south": "swordsandsandals:blocks/ruda_brazu",
+    "west": "swordsandsandals:blocks/ruda_brazu",
+    "particle": "swordsandsandals:blocks/ruda_brazu"
+  }
+}

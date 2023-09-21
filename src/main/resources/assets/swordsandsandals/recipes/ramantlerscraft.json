@@ -1,0 +1,39 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:bone"
+    },
+    "1": {
+      "item": "minecraft:bone"
+    },
+    "2": {
+      "item": "minecraft:gold_ingot"
+    },
+    "3": {
+      "item": "minecraft:bone"
+    },
+    "4": {
+      "item": "swordsandsandals:carbin"
+    },
+    "6": {
+      "item": "minecraft:bone"
+    },
+    "7": {
+      "item": "swordsandsandals:carbin"
+    },
+    "8": {
+      "item": "swordsandsandals:carbin"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:ramantlers",
+    "count": 1
+  }
+}

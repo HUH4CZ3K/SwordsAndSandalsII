@@ -1,0 +1,33 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:blockofbronze"
+    },
+    "1": {
+      "item": "swordsandsandals:carbin"
+    },
+    "2": {
+      "item": "swordsandsandals:blockofbronze"
+    },
+    "3": {
+      "item": "swordsandsandals:carbinblock"
+    },
+    "4": {
+      "item": "swordsandsandals:blockofbronze"
+    },
+    "5": {
+      "item": "swordsandsandals:carbin"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:sledge_hammer_stick",
+    "count": 1
+  }
+}

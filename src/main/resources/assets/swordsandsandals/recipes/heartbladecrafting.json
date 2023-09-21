@@ -1,0 +1,42 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_ingot"
+    },
+    "1": {
+      "item": "swordsandsandals:carbin"
+    },
+    "2": {
+      "item": "swordsandsandals:rubin"
+    },
+    "3": {
+      "item": "swordsandsandals:blockofbronze"
+    },
+    "4": {
+      "item": "swordsandsandals:polishedobsidianingot"
+    },
+    "5": {
+      "item": "swordsandsandals:blockofrubin"
+    },
+    "6": {
+      "item": "minecraft:gold_ingot"
+    },
+    "7": {
+      "item": "swordsandsandals:carbin"
+    },
+    "8": {
+      "item": "swordsandsandals:rubin"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:heartbladeblade",
+    "count": 1
+  }
+}

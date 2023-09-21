@@ -1,0 +1,64 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "bhaarglescirclettexture",
+    "enableBody": true,
+    "textureBody": "collarbhaargle",
+    "enableLeggings": false,
+    "textureLeggings": "",
+    "enableBoots": false,
+    "textureBoots": "",
+    "onHelmetTick": {
+      "name": "BhaarglesArmorHelmetTickEvent"
+    },
+    "onBodyTick": {
+      "name": "BhaarglesArmorBodyTickEvent"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:SwordsAndSandalsArmors"
+    },
+    "armorTextureFile": "antaresalpha_",
+    "helmetName": "Bhaargle's Helmet",
+    "bodyName": "Bhaargle's Chestplate",
+    "leggingsName": "Bhaargles Armor Leggings",
+    "bootsName": "Bhaargles Armor Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "ModelBhaargles_Circlet",
+    "helmetModelPart": "Head",
+    "helmetModelTexture": "bhaargles_circlet.png",
+    "bodyModelName": "ModelBhaargles_Chesplate",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightArm",
+    "bodyModelTexture": "bhaargleyargs_chestplate_texture.png",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 700,
+    "damageValueHelmet": 1,
+    "damageValueBody": 17,
+    "damageValueLeggings": 0,
+    "damageValueBoots": 0,
+    "enchantability": 25,
+    "toughness": 9.5,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": "item.armor.equip_diamond"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:ConquererComposite"
+      }
+    ]
+  }
+}

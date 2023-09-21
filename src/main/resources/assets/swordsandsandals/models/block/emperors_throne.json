@@ -1,0 +1,8 @@
+{
+  "parent": "swordsandsandals:custom/emperors'_thronemodel",
+  "textures": {
+    "all": "swordsandsandals:blocks/goldblockdoedycji",
+    "particle": "swordsandsandals:blocks/goldblockdoedycji",
+    "0": "swordsandsandals:blocks/emperors_throne_texture"
+  }
+}

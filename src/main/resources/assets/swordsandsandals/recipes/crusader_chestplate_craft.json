@@ -1,0 +1,40 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:blockofrubin"
+    },
+    "2": {
+      "item": "swordsandsandals:blockofrubin"
+    },
+    "3": {
+      "item": "swordsandsandals:blockofsaphire"
+    },
+    "4": {
+      "item": "minecraft:wool",
+      "data": 0
+    },
+    "5": {
+      "item": "swordsandsandals:blockofsaphire"
+    },
+    "6": {
+      "item": "minecraft:iron_ingot"
+    },
+    "7": {
+      "item": "swordsandsandals:blockofsaphire"
+    },
+    "8": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:crusader_armorbody",
+    "count": 1
+  }
+}

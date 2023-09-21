@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "swordsandsandals:blocks/ce_rystal_re",
+    "up": "swordsandsandals:blocks/ce_rystal_re",
+    "north": "swordsandsandals:blocks/ce_rystal_re",
+    "east": "swordsandsandals:blocks/ce_rystal_re",
+    "south": "swordsandsandals:blocks/ce_rystal_re",
+    "west": "swordsandsandals:blocks/ce_rystal_re",
+    "particle": "swordsandsandals:blocks/ce_rystal_re"
+  }
+}

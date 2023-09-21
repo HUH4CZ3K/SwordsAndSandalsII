@@ -1,0 +1,32 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:blockofbronze"
+    },
+    "1": {
+      "item": "swordsandsandals:blockofbronze"
+    },
+    "2": {
+      "item": "swordsandsandals:blockofbronze"
+    },
+    "3": {
+      "item": "swordsandsandals:blockofbronze"
+    },
+    "4": {
+      "item": "swordsandsandals:carbinblock"
+    },
+    "5": {
+      "item": "swordsandsandals:blockofbronze"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:sledge_hammer_blade_part",
+    "count": 1
+  }
+}

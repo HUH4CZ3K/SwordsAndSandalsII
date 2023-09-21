@@ -1,0 +1,16 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "swordsandsandals:veteran_boot"
+    },
+    {
+      "item": "swordsandsandals:veteran_boot"
+    }
+  ],
+  "result": {
+    "item": "swordsandsandals:veteran_armorboots",
+    "count": 1
+  }
+}

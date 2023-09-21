@@ -1,0 +1,23 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:block_of_polished_crystal_2"
+    },
+    "1": {
+      "item": "swordsandsandals:block_of_polished_crystal_2"
+    },
+    "2": {
+      "item": "swordsandsandals:block_of_polished_crystal_2"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:block_of_polished_purple_crystal_stairs",
+    "data": 0,
+    "count": 6
+  }
+}

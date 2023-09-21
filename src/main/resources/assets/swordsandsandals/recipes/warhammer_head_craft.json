@@ -1,0 +1,42 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_ingot"
+    },
+    "1": {
+      "item": "minecraft:gold_block"
+    },
+    "2": {
+      "item": "minecraft:gold_ingot"
+    },
+    "3": {
+      "item": "swordsandsandals:saphire"
+    },
+    "4": {
+      "item": "swordsandsandals:blockofbronze"
+    },
+    "5": {
+      "item": "swordsandsandals:saphire"
+    },
+    "6": {
+      "item": "swordsandsandals:bronzeingot"
+    },
+    "7": {
+      "item": "minecraft:gold_block"
+    },
+    "8": {
+      "item": "swordsandsandals:bronzeingot"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:warhammer_head",
+    "count": 1
+  }
+}

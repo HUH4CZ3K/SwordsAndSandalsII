@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "swordsandsandals:blocks/saphire_ore",
+    "up": "swordsandsandals:blocks/saphire_ore",
+    "north": "swordsandsandals:blocks/saphire_ore",
+    "east": "swordsandsandals:blocks/saphire_ore",
+    "south": "swordsandsandals:blocks/saphire_ore",
+    "west": "swordsandsandals:blocks/saphire_ore",
+    "particle": "swordsandsandals:blocks/saphire_ore"
+  }
+}

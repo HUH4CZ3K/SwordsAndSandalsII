@@ -1,0 +1,36 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "  8"
+  ],
+  "key": {
+    "0": {
+      "item": "swordsandsandals:carbinblock"
+    },
+    "1": {
+      "item": "swordsandsandals:carbinblock"
+    },
+    "2": {
+      "item": "swordsandsandals:carbinblock"
+    },
+    "3": {
+      "item": "swordsandsandals:carbinblock"
+    },
+    "4": {
+      "item": "swordsandsandals:carbin"
+    },
+    "5": {
+      "item": "swordsandsandals:carbin"
+    },
+    "8": {
+      "item": "swordsandsandals:carbin"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:reaperscytheblade",
+    "count": 1
+  }
+}

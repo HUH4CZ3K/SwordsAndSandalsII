@@ -1,0 +1,30 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:apple"
+    },
+    "3": {
+      "item": "swordsandsandals:ancient_gem"
+    },
+    "4": {
+      "item": "minecraft:apple"
+    },
+    "5": {
+      "item": "swordsandsandals:ancient_gem"
+    },
+    "7": {
+      "item": "swordsandsandals:medium_bottle"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:medium_health_potion",
+    "count": 1
+  }
+}

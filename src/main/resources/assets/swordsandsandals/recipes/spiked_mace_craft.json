@@ -1,0 +1,20 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "2 "
+  ],
+  "key": {
+    "1": {
+      "item": "swordsandsandals:spiked_mace_head"
+    },
+    "2": {
+      "item": "swordsandsandals:spiked_mace_handle"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:spiked_mace",
+    "count": 1
+  }
+}

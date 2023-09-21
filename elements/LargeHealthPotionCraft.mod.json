@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AncientGem"
+      },
+      {
+        "value": "Items.APPLE"
+      },
+      {
+        "value": "CUSTOM:AncientGem"
+      },
+      {
+        "value": "Items.APPLE"
+      },
+      {
+        "value": "CUSTOM:AncientGem"
+      },
+      {
+        "value": "Items.APPLE"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LargeBottle"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LargeHealthPotion"
+    },
+    "name": "large_health_potion_craft",
+    "namespace": "minecraft"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "CUSTOM:Carbin"
+      },
+      {
+        "value": "Blocks.LOG2#1"
+      },
+      {
+        "value": "CUSTOM:Carbin"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:HalberdSpike"
+    },
+    "name": "halberdspikecraft",
+    "namespace": "minecraft"
+  }
+}

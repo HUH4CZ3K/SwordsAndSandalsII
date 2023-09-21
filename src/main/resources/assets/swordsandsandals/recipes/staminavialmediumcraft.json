@@ -1,0 +1,32 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:water_bucket"
+    },
+    "3": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "4": {
+      "item": "swordsandsandals:ancient_gem"
+    },
+    "5": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "7": {
+      "item": "swordsandsandals:medium_bottle"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:medium_stamina_vial",
+    "count": 1
+  }
+}

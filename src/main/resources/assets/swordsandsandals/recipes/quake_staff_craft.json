@@ -1,0 +1,24 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "swordsandsandals:quake_staff_blade"
+    },
+    "4": {
+      "item": "swordsandsandals:quake_staff_stick"
+    },
+    "6": {
+      "item": "swordsandsandals:quake_staff_blade"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:quake_staff",
+    "count": 1
+  }
+}

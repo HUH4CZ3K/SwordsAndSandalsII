@@ -1,0 +1,13 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "swordsandsandals:block_of_champion_composite"
+    }
+  ],
+  "result": {
+    "item": "swordsandsandals:champion_composite",
+    "count": 9
+  }
+}

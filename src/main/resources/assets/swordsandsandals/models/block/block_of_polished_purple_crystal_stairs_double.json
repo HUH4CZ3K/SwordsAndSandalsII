@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "swordsandsandals:blocks/crystalwalltexture",
+    "particle": "swordsandsandals:blocks/crystalwalltexture"
+  }
+}

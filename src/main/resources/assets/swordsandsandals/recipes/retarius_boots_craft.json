@@ -1,0 +1,16 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "swordsandsandals:retarius_boot"
+    },
+    {
+      "item": "swordsandsandals:retarius_boot"
+    }
+  ],
+  "result": {
+    "item": "swordsandsandals:retarius_armorboots",
+    "count": 1
+  }
+}

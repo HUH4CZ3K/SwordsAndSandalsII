@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "S&S Parts",
+    "icon": {
+      "value": "CUSTOM:DaikatanaBladePart1"
+    },
+    "showSearch": true
+  }
+}

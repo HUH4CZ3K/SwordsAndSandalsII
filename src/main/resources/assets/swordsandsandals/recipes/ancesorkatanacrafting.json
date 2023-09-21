@@ -1,0 +1,24 @@
+{
+  "group": "swordsandsandals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "swordsandsandals:ancesorkatanabladepart2"
+    },
+    "4": {
+      "item": "swordsandsandals:ancesorkatanabladepart1"
+    },
+    "6": {
+      "item": "swordsandsandals:ancesorkatanahandle"
+    }
+  },
+  "result": {
+    "item": "swordsandsandals:ancesorkatana",
+    "count": 1
+  }
+}
